@@ -1,0 +1,8586 @@
+div {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+
+}
+
+p {
+    text-align: center;
+    border: solid;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Comic Sans MS;
+
+
+}
+
+
+#Kanto01 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+    position: relative;
+}
+
+#Kanto01 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+    
+}
+
+#Kanto02 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto02 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto03 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto03 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto04 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto04 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto05 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto05 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto06 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+    position: relative;
+}
+
+#Kanto06 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto07 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto07 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto08 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto08 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto09 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto09 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto10 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto10 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto11 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto11 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto12 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto12 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;   
+}
+
+#Kanto13 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto13 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto14 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto14 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto15 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto15 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto16 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto16 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto17 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto17 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto18 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto18 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block; 
+}
+
+#Kanto19 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto19 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto19-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto19-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto20 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto20 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto20-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto20-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+   
+}
+
+#Kanto21 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto21 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto22 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto22 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto23 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto23 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto24 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto24 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto25 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto25 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto26 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto26 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto27 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto27 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto27-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto27-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto28 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto28 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;   
+}
+
+#Kanto28-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto28-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;  
+}
+
+#Kanto29 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#Kanto29 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto30 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto30 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto31 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto31 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;   
+}
+
+#Kanto32 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto32 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto33 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;    
+}
+
+#Kanto33 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto34 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto34 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto35 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto35 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto36 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto36 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto37 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto37 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto37-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto37-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto38 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto38 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block; 
+}
+
+#Kanto38-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto38-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto39 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto39 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto40 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto40 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto41 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto41 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto42 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto42 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto43 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto43 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto44 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto44 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto45 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto45 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto46 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto46 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto47 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto47 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto48 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto48 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto49 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto49 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;                       
+}
+
+#Kanto50 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto50 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto50-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto50-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto51 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#Kanto51 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto51-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto51-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto52 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto52 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto52-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto52-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto52-b {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto52-b img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto53 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto53 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto53-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto53-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto54 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto54 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto55 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto55 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto56 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto56 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto57 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto57 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto58 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto58 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto58-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto58-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto59 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto59 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto59-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto59-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto60 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto60 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto61 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto61 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto62 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#Kanto62 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto63 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto63 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto64 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#Kanto64 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto65 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto65 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto66 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto66 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto67 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#Kanto67 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto68 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto68 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto69 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto69 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto70 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto70 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto71 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto71 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto72 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto72 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto73 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto73 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto74 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto74 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto74-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto74-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto75 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto75 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto75-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto75-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto76 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto76 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto76-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto76-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto77 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto77 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto77-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto77-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto78 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#Kanto78 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto78-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto78-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    
+}
+
+#Kanto79 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto79 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto79-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#Kanto79-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto80 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto80 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto80-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto80-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto81 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto81 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto82 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto82 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto83 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto83 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto83-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto83-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto84 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto84 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto85 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;    
+}
+
+#Kanto85 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto86 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto86 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto87 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto87 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto88 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto88 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto88-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto88-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto89 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto89 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto89-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto89-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto90 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto90 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto91 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto91 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto92 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto92 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto93 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto93 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto94 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto94 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto95 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto95 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto96 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto96 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto97 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto97 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto98 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto98 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto99 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto99 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto100 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto100 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto100-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto100-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto101 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto101 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+
+#Kanto101-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto101-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto102 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto102 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto103 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto103 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto103-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto103-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto104 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto104 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto105 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto105 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto105-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto105-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto106 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto106 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto107 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto107 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto108 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto108 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto109 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto109 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto110 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto110 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto110-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto110-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto111 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto111 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto112 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto112 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto113 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto113 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto114 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto114 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto115 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto115 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto116 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto116 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+
+#Kanto117 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto117 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto118 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto118 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+
+#Kanto119 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto119 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto120 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto120 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto121 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto121 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto122 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto122 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto122-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto122-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto123 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto123 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto124 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto124 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto125 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto125 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto126 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto126 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto127 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto127 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto128 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto128 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto129 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto129 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto130 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto130 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto131 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto131 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto132 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto132 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto133 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto133 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto134 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto134 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto135 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto135 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto136 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto136 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto137 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto137 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto138 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto138 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto139 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto139 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto140 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto140 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto141 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto141 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto142 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto142 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto143 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto143 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto144 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto144 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto144-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto144-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto145 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto145 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto145-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto145-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto146 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto146 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto146-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto146-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto147 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto147 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto148 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto148 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto149 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Kanto149 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto150 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto150 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Kanto151 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kanto151 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+/*Johto*/
+#Johto01{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Johto01 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto02{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto02 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto03{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#Johto03 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto04{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto04 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto05{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto05 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto06{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Johto06 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto06-a{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto06-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto07{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto07 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto08{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto08 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto09{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;   
+}
+
+#Johto09 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto10{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Johto10 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto11{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto11 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto12{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto12 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto13{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto13 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto14{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto14 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto15{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Johto15 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto16{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto16 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto17{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto17 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto18{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto18 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto19{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto19 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto20{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Johto20 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto21{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto21 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto22{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto22 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto23{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto23 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto24{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto24 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto25{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Johto25 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto26{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto26 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto27{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto27 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto28{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto28 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto29{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto29 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto30{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Johto30 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto31{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto31 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto32{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto32 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto33{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto33 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto34{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto34 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto35{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Johto35 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto36{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto36 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto37{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto37 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto38{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto38 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto39{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto39 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto40{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Johto40 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto41{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto41 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto42{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto42 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto43{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto43 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto44{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto44 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto45{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Johto45 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto46{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto46 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto47{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto47 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto48{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto48 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto48-a{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto48-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto49{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Johto49 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto50{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto50 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto51{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto51 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto52{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto52 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto53{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto53 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto54{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Johto54 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto55{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto55 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto56{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto56 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto57{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto57 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto58{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto58 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto59{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Johto59 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto60{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto60 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto60-a{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto60-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto61{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto61 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto62{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto62 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto63{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Johto63 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto64{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto64 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;   
+}
+
+#Johto64-a{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto64-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto65{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto65 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto66{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto66 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto67{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Johto67 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto68{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto68 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto69{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto69 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto70{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto70 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto71{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto71 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto71-a{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Johto71-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto72{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto72 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto73{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto73 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto74{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto74 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto75{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto75 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto76{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Johto76 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto77{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto77 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto78{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto78 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto79{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto79 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto80{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto80 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto81{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Johto81 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto82{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto82 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto83{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto83 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto84{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto84 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto85{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#Johto85 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto86{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Johto86 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto87{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#Johto87 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto88{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#Johto88 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto89{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#Johto89 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto90{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#Johto90 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto91{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+    
+}
+
+#Johto91 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto92{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#Johto92 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto93{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#Johto93 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto94{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#Johto94 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto95{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#Johto95 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto96{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+    
+}
+
+#Johto96 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto97{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#Johto97 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Johto98{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#Johto98 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto99{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#Johto99 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Johto100{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#Johto100 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*Shinys's Kanto*/
+
+#ShinyKanto01 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto01 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto02 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto02 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto03 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto03 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto04 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto04 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto05 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto05 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto06 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+    position: relative;
+}
+
+#ShinyKanto06 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto07 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto07 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto08 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto08 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto09 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto09 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto10 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto10 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto11 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto11 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto12 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto12 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;   
+}
+
+#ShinyKanto13 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto13 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto14 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto14 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto15 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto15 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto16 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto16 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto17 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto17 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto18 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto18 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block; 
+    opacity: 0.3;
+}
+
+#ShinyKanto19 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto19 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto19-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto19-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto20 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto20 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto20-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto20-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+   
+}
+
+#ShinyKanto21 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto21 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto22 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto22 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto23 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto23 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto24 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto24 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto25 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto25 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto26 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto26 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto27 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto27 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto27-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto27-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto28 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto28 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto28-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto28-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;  
+    opacity: 0.3;
+}
+
+#ShinyKanto29 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#ShinyKanto29 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto30 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto30 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto31 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto31 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto32 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto32 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto33 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;    
+}
+
+#ShinyKanto33 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto34 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto34 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto35 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto35 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto36 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto36 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto37 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto37 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto37-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto37-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto38 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto38 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block; 
+    opacity: 0.3;
+}
+
+#ShinyKanto38-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto38-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto39 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto39 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto40 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto40 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto41 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto41 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto42 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto42 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto43 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto43 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto44 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto44 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto45 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto45 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto46 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto46 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto47 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto47 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto48 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto48 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto49 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto49 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto50 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto50 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto50-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto50-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto51 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#ShinyKanto51 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto51-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto51-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto52 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto52 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto52-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto52-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto52-b {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto52-b img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto53 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto53 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto53-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto53-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto54 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto54 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto55 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto55 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto56 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto56 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto57 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto57 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto58 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto58 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto58-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto58-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto59 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto59 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto59-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto59-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto60 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto60 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto61 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto61 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto62 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#ShinyKanto62 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto63 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto63 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto64 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#ShinyKanto64 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto65 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto65 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto66 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto66 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto67 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#ShinyKanto67 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto68 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto68 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto69 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto69 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto70 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto70 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto71 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto71 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto72 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto72 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto73 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto73 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto74 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto74 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto74-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto74-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto75 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto75 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto75-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto75-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto76 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto76 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto76-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto76-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto77 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto77 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto77-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto77-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto78 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#ShinyKanto78 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto78-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto78-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    
+}
+
+#ShinyKanto79 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto79 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto79-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#ShinyKanto79-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto80 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto80 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto80-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto80-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto81 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto81 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto82 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto82 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto83 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto83 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto83-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto83-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto84 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto84 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto85 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;    
+}
+
+#ShinyKanto85 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto86 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto86 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto87 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto87 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto88 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto88 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto88-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto88-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto89 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto89 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto89-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto89-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto90 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto90 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto91 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto91 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto92 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto92 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto93 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto93 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto94 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto94 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto95 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto95 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto96 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto96 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto97 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto97 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto98 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto98 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto99 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto99 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto100 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto100 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto100-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto100-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto101 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto101 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+
+#ShinyKanto101-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto101-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto102 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto102 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto103 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto103 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto103-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto103-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto104 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto104 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto105 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto105 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto105-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto105-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto106 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto106 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto107 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto107 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto108 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto108 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto109 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto109 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto110 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto110 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto110-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto110-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto111 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto111 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto112 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto112 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto113 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto113 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto114 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto114 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto115 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto115 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto116 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto116 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+
+#ShinyKanto117 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto117 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto118 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto118 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+
+#ShinyKanto119 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto119 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto120 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto120 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto121 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto121 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto122 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto122 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto122-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto122-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto123 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto123 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto124 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto124 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto125 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto125 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto126 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto126 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto127 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto127 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto128 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto128 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto129 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto129 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto130 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto130 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto131 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto131 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto132 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto132 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto133 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto133 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto134 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto134 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto135 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto135 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto136 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto136 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto137 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto137 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto138 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto138 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto139 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto139 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto140 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto140 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto141 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto141 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto142 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto142 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto143 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto143 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto144 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto144 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto144-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto144-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto145 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto145 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto145-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto145-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto146 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto146 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto146-a {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto146-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto147 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto147 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto148 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto148 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto149 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyKanto149 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto150 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto150 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyKanto151 {
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyKanto151 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+/*Shinys's Johto*/
+
+#ShinyJohto01{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyJohto01 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto02{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto02 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto03{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto03 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto04{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto04 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto05{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto05 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto06{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyJohto06 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto06-a{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto06-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto07{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto07 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto08{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto08 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto09{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto09 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto10{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyJohto10 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto11{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto11 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto12{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto12 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto13{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto13 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto14{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto14 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto15{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyJohto15 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto16{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto16 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto17{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto17 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto18{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto18 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto19{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto19 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto20{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyJohto20 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto21{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto21 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto22{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto22 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto23{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto23 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto24{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto24 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto25{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyJohto25 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto26{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto26 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto27{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto27 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto28{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto28 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto29{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto29 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto30{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyJohto30 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto31{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto31 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto32{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto32 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto33{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto33 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto34{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto34 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto35{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyJohto35 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto36{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto36 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto37{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto37 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto38{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto38 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto39{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto39 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto40{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyJohto40 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto41{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto41 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto42{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto42 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto43{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto43 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto44{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto44 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto45{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyJohto45 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto46{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto46 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto47{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto47 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto48{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto48 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto48-a{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto48-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto49{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyJohto49 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto50{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto50 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto51{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto51 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto52{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto52 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto53{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto53 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto54{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyJohto54 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto55{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto55 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto56{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto56 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto57{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto57 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto58{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto58 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto59{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyJohto59 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto60{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto60 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto60-a{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto60-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto61{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto61 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto62{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto62 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto63{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyJohto63 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto64{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto64 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto64-a{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto64-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto65{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto65 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto66{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto66 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto67{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyJohto67 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto68{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto68 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto69{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto69 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto70{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto70 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto71{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto71 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto71-a{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyJohto71-a img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto72{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto72 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto73{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto73 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto74{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto74 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto75{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto75 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto76{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyJohto76 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto77{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto77 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto78{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto78 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto79{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto79 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto80{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto80 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto81{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyJohto81 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto82{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto82 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto83{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto83 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto84{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto84 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+    
+}
+
+#ShinyJohto85{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#ShinyJohto85 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto86{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyJohto86 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto87{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#ShinyJohto87 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto88{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#ShinyJohto88 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto89{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#ShinyJohto89 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto90{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#ShinyJohto90 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto91{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+    
+}
+
+#ShinyJohto91 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto92{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#ShinyJohto92 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto93{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#ShinyJohto93 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto94{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#ShinyJohto94 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto95{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#ShinyJohto95 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto96{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+    
+}
+
+#ShinyJohto96 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto97{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#ShinyJohto97 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto98{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#ShinyJohto98 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto99{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#ShinyJohto99 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinyJohto100{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    
+}
+
+#ShinyJohto100 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Fim Geral*/
