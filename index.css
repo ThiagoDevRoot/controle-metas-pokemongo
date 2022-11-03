@@ -22,6 +22,9 @@ p {
     height: 25%;
     margin-left: 5%;
     position: relative;
+    
+    
+    
 }
 
 #Kanto01 img {
@@ -30,6 +33,9 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    
     
 }
 
@@ -46,6 +52,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto03 {
@@ -61,6 +69,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto04 {
@@ -75,6 +85,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto05 {
@@ -89,6 +101,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto06 {
@@ -105,6 +119,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto07 {
@@ -119,6 +135,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto08 {
@@ -134,6 +152,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto09 {
@@ -149,6 +169,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto10 {
@@ -163,6 +185,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto11 {
@@ -178,6 +202,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto12 {
@@ -191,7 +217,9 @@ p {
     max-width: 100%;
     max-height: 100%;
     margin: auto;
-    display: block;   
+    display: block; 
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;  
 }
 
 #Kanto13 {
@@ -207,6 +235,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto14 {
@@ -221,6 +251,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto15 {
@@ -235,6 +267,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto16 {
@@ -250,6 +284,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto17 {
@@ -264,6 +300,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto18 {
@@ -277,7 +315,9 @@ p {
     max-width: 100%;
     max-height: 100%;
     margin: auto;
-    display: block; 
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat; 
 }
 
 #Kanto19 {
@@ -292,6 +332,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto19-a {
@@ -306,6 +348,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto20 {
@@ -322,6 +366,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto20-a {
@@ -329,6 +375,7 @@ p {
     width: 17%;
     height: 25%;
     position: relative;
+    
 }
 
 #Kanto20-a img {
@@ -336,6 +383,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
    
 }
 
@@ -351,6 +400,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto22 {
@@ -365,6 +416,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto23 {
@@ -379,6 +432,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto24 {
@@ -394,6 +449,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto25 {
@@ -408,6 +465,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto26 {
@@ -422,6 +481,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto27 {
@@ -437,6 +498,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto27-a {
@@ -451,6 +514,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto28 {
@@ -466,7 +531,9 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;   
+    opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;   
 }
 
 #Kanto28-a {
@@ -480,7 +547,9 @@ p {
     max-width: 100%;
     max-height: 100%;
     margin: auto;
-    display: block;  
+    display: block; 
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat; 
 }
 
 #Kanto29 {
@@ -497,6 +566,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto30 {
@@ -511,6 +582,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto31 {
@@ -525,7 +598,9 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;   
+    opacity: 0.3;  
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat; 
 }
 
 #Kanto32 {
@@ -542,6 +617,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto33 {
@@ -556,6 +633,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto34 {
@@ -571,6 +650,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto35 {
@@ -585,6 +666,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto36 {
@@ -600,6 +683,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto37 {
@@ -615,6 +700,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto37-a {
@@ -630,6 +717,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto38 {
@@ -644,6 +733,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block; 
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto38-a {
@@ -659,6 +750,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto39 {
@@ -673,6 +766,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto40 {
@@ -689,6 +784,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto41 {
@@ -703,6 +800,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto42 {
@@ -717,6 +816,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto43 {
@@ -731,6 +832,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto44 {
@@ -745,6 +848,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto45 {
@@ -760,6 +865,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto46 {
@@ -774,6 +881,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto47 {
@@ -788,6 +897,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto48 {
@@ -803,6 +914,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto49 {
@@ -817,7 +930,9 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;                       
+    opacity: 0.3;     
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;                  
 }
 
 #Kanto50 {
@@ -833,6 +948,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto50-a {
@@ -847,6 +964,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto51 {
@@ -862,6 +981,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto51-a {
@@ -876,6 +997,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto52 {
@@ -890,6 +1013,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto52-a {
@@ -906,6 +1031,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto52-b {
@@ -920,6 +1047,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto53 {
@@ -935,6 +1064,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto53-a {
@@ -949,6 +1080,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto54 {
@@ -963,6 +1096,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto55 {
@@ -979,6 +1114,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto56 {
@@ -993,6 +1130,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto57 {
@@ -1008,6 +1147,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto58 {
@@ -1022,6 +1163,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto58-a {
@@ -1036,6 +1179,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto59 {
@@ -1052,6 +1197,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto59-a {
@@ -1066,6 +1213,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto60 {
@@ -1081,6 +1230,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto61 {
@@ -1096,6 +1247,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto62 {
@@ -1112,6 +1265,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto63 {
@@ -1128,6 +1283,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto64 {
@@ -1143,6 +1300,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto65 {
@@ -1158,6 +1317,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto66 {
@@ -1173,6 +1334,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto67 {
@@ -1189,6 +1352,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto68 {
@@ -1205,6 +1370,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto69 {
@@ -1219,6 +1386,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto70 {
@@ -1233,6 +1402,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto71 {
@@ -1247,6 +1418,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto72 {
@@ -1261,6 +1434,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto73 {
@@ -1277,6 +1452,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto74 {
@@ -1291,6 +1468,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto74-a {
@@ -1306,6 +1485,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto75 {
@@ -1320,6 +1501,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto75-a {
@@ -1335,6 +1518,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto76 {
@@ -1351,6 +1536,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto76-a {
@@ -1366,6 +1553,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto77 {
@@ -1380,6 +1569,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto77-a {
@@ -1394,6 +1585,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto78 {
@@ -1409,6 +1602,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto78-a {
@@ -1424,6 +1619,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
     
 }
 
@@ -1439,6 +1636,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto79-a {
@@ -1454,6 +1653,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto80 {
@@ -1468,6 +1669,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto80-a {
@@ -1482,6 +1685,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto81 {
@@ -1497,6 +1702,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto82 {
@@ -1511,6 +1718,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto83 {
@@ -1525,6 +1734,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto83-a {
@@ -1540,6 +1751,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto84 {
@@ -1554,6 +1767,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto85 {
@@ -1569,6 +1784,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto86 {
@@ -1583,6 +1800,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto87 {
@@ -1597,6 +1816,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto88 {
@@ -1611,6 +1832,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto88-a {
@@ -1625,6 +1848,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto89 {
@@ -1641,6 +1866,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto89-a {
@@ -1655,6 +1882,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto90 {
@@ -1669,6 +1898,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto91 {
@@ -1684,6 +1915,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto92 {
@@ -1698,6 +1931,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto93 {
@@ -1713,6 +1948,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto94 {
@@ -1728,6 +1965,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto95 {
@@ -1742,6 +1981,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto96 {
@@ -1756,6 +1997,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto97 {
@@ -1770,6 +2013,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto98 {
@@ -1785,6 +2030,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto99 {
@@ -1799,6 +2046,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto100 {
@@ -1814,6 +2063,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto100-a {
@@ -1828,6 +2079,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto101 {
@@ -1843,6 +2096,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 
@@ -1859,6 +2114,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto102 {
@@ -1873,6 +2130,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto103 {
@@ -1887,6 +2146,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto103-a {
@@ -1901,6 +2162,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto104 {
@@ -1916,6 +2179,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto105 {
@@ -1931,6 +2196,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto105-a {
@@ -1945,6 +2212,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto106 {
@@ -1959,6 +2228,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto107 {
@@ -1973,6 +2244,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto108 {
@@ -1987,6 +2260,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto109 {
@@ -2002,6 +2277,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto110 {
@@ -2016,6 +2293,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto110-a {
@@ -2030,6 +2309,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto111 {
@@ -2045,6 +2326,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto112 {
@@ -2059,6 +2342,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto113 {
@@ -2074,6 +2359,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto114 {
@@ -2088,10 +2375,12 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto115 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2116,6 +2405,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 
@@ -2131,6 +2422,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto118 {
@@ -2146,6 +2439,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 
@@ -2161,6 +2456,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto120 {
@@ -2175,6 +2472,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto121 {
@@ -2189,6 +2488,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto122 {
@@ -2203,6 +2504,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto122-a {
@@ -2218,6 +2521,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto123 {
@@ -2232,6 +2537,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto124 {
@@ -2246,6 +2553,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto125 {
@@ -2261,6 +2570,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto126 {
@@ -2276,6 +2587,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto127 {
@@ -2291,6 +2604,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto128 {
@@ -2305,6 +2620,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto129 {
@@ -2319,6 +2636,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto130 {
@@ -2334,6 +2653,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto131 {
@@ -2349,6 +2670,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto132 {
@@ -2364,6 +2687,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto133 {
@@ -2378,6 +2703,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto134 {
@@ -2393,6 +2720,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto135 {
@@ -2407,6 +2736,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto136 {
@@ -2422,6 +2753,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto137 {
@@ -2438,6 +2771,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto138 {
@@ -2452,6 +2787,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto139 {
@@ -2467,6 +2804,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto140 {
@@ -2481,6 +2820,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto141 {
@@ -2496,6 +2837,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto142 {
@@ -2511,6 +2854,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto143 {
@@ -2525,10 +2870,12 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto144 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2542,7 +2889,7 @@ p {
 }
 
 #Kanto144-a {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2556,7 +2903,7 @@ p {
 }
 
 #Kanto145 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2570,7 +2917,7 @@ p {
 }
 
 #Kanto145-a {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2596,6 +2943,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto146-a {
@@ -2610,6 +2959,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto147 {
@@ -2625,6 +2976,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto148 {
@@ -2640,6 +2993,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto149 {
@@ -2656,6 +3011,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto150 {
@@ -2671,10 +3028,12 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Kanto151 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2701,6 +3060,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto02{
@@ -2715,6 +3076,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto03{
@@ -2731,6 +3094,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto04{
@@ -2746,6 +3111,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto05{
@@ -2760,6 +3127,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto06{
@@ -2776,6 +3145,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto06-a{
@@ -2790,6 +3161,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto07{
@@ -2805,6 +3178,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto08{
@@ -2819,6 +3194,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto09{
@@ -2834,6 +3211,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto10{
@@ -2849,6 +3228,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto11{
@@ -2863,6 +3244,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto12{
@@ -2877,6 +3260,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto13{
@@ -2891,6 +3276,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto14{
@@ -2905,6 +3292,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto15{
@@ -2920,6 +3309,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto16{
@@ -2934,6 +3325,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto17{
@@ -2948,6 +3341,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto18{
@@ -2962,6 +3357,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto19{
@@ -2977,6 +3374,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto20{
@@ -2992,6 +3391,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto21{
@@ -3006,10 +3407,12 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto22{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3023,7 +3426,7 @@ p {
 }
 
 #Johto23{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3048,6 +3451,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto25{
@@ -3063,6 +3468,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto26{
@@ -3078,6 +3485,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto27{
@@ -3092,6 +3501,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto28{
@@ -3107,6 +3518,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto29{
@@ -3121,6 +3534,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto30{
@@ -3136,6 +3551,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto31{
@@ -3150,6 +3567,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto32{
@@ -3164,6 +3583,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto33{
@@ -3179,6 +3600,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto34{
@@ -3193,6 +3616,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto35{
@@ -3209,6 +3634,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto36{
@@ -3223,6 +3650,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto37{
@@ -3237,6 +3666,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto38{
@@ -3252,6 +3683,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto39{
@@ -3267,6 +3700,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto40{
@@ -3283,6 +3718,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto41{
@@ -3298,6 +3735,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto42{
@@ -3312,6 +3751,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto43{
@@ -3326,6 +3767,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto44{
@@ -3340,6 +3783,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto45{
@@ -3356,6 +3801,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto46{
@@ -3371,6 +3818,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto47{
@@ -3386,6 +3835,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto48{
@@ -3401,6 +3852,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto48-a{
@@ -3415,6 +3868,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto49{
@@ -3431,6 +3886,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto50{
@@ -3445,6 +3902,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto51{
@@ -3459,6 +3918,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto52{
@@ -3473,6 +3934,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto53{
@@ -3487,6 +3950,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto54{
@@ -3503,6 +3968,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto55{
@@ -3517,6 +3984,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto56{
@@ -3531,6 +4000,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto57{
@@ -3545,6 +4016,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto58{
@@ -3560,6 +4033,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto59{
@@ -3576,6 +4051,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto60{
@@ -3590,6 +4067,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto60-a{
@@ -3604,6 +4083,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto61{
@@ -3619,6 +4100,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto62{
@@ -3633,6 +4116,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto63{
@@ -3649,6 +4134,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto64{
@@ -3664,6 +4151,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;   
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto64-a{
@@ -3678,6 +4167,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto65{
@@ -3692,6 +4183,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto66{
@@ -3706,6 +4199,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto67{
@@ -3722,6 +4217,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto68{
@@ -3736,6 +4233,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto69{
@@ -3750,6 +4249,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto70{
@@ -3764,10 +4265,12 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto71{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3781,7 +4284,7 @@ p {
 }
 
 #Johto71-a{
-    background-color: darkgray;
+    background-color: #FF99FF;;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3796,7 +4299,7 @@ p {
 }
 
 #Johto72{
-    background-color: darkgray;
+    background-color: #FF99FF;;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3822,6 +4325,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto74{
@@ -3836,10 +4341,12 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto75{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3866,6 +4373,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto77{
@@ -3880,6 +4389,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto78{
@@ -3895,6 +4406,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto79{
@@ -3909,6 +4422,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto80{
@@ -3924,6 +4439,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto81{
@@ -3939,6 +4456,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto82{
@@ -3954,6 +4473,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto83{
@@ -3969,6 +4490,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto84{
@@ -3983,10 +4506,12 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto85{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4013,6 +4538,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto87{
@@ -4028,6 +4555,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto88{
@@ -4043,6 +4572,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto89{
@@ -4058,6 +4589,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto90{
@@ -4073,6 +4606,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto91{
@@ -4089,6 +4624,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto92{
@@ -4104,10 +4641,12 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto93{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4134,7 +4673,10 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
+
 
 #Johto95{
     background-color: darkgray;
@@ -4149,6 +4691,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto96{
@@ -4165,6 +4709,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto97{
@@ -4181,6 +4727,8 @@ p {
     margin: auto;
     display: block;
     opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto98{
@@ -4196,6 +4744,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto99{
@@ -4211,10 +4761,12 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto100{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4246,6 +4798,7 @@ p {
     height: 25%;
     position: relative;
     margin-left: 5%;
+    
 }
 
 #ShinyKanto01 img {
@@ -4393,7 +4946,7 @@ p {
 }
 
 #ShinyKanto11 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4408,7 +4961,7 @@ p {
 }
 
 #ShinyKanto12 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4467,7 +5020,7 @@ p {
 }
 
 #ShinyKanto16 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4482,7 +5035,7 @@ p {
 }
 
 #ShinyKanto17 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4541,7 +5094,7 @@ p {
 }
 
 #ShinyKanto20 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4553,11 +5106,11 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
+    /*opacity: 0.3;*/
 }
 
 #ShinyKanto20-a {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4572,7 +5125,8 @@ p {
 }
 
 #ShinyKanto21 {
-    background-color: darkgray;
+    background-color: #FF99FF;;
+    width: 17%;;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4586,7 +5140,8 @@ p {
 }
 
 #ShinyKanto22 {
-    background-color: darkgray;
+    background-color: #FF99FF;;
+    width: 17%;;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4860,7 +5415,8 @@ p {
 }
 
 #ShinyKanto37-a {
-    background-color: darkgray;
+    background-color: #FF99FF;;
+    width: 17%;;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4889,7 +5445,8 @@ p {
 }
 
 #ShinyKanto38-a {
-    background-color: darkgray;
+    background-color: #FF99FF;;
+    width: 17%;;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4918,7 +5475,8 @@ p {
 }
 
 #ShinyKanto40 {
-    background-color: darkgray;
+    background-color: #FF99FF;;
+    width: 17%;;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5009,7 +5567,8 @@ p {
 }
 
 #ShinyKanto46 {
-    background-color: darkgray;
+    background-color: #FF99FF;;
+    width: 17%;;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5023,7 +5582,8 @@ p {
 }
 
 #ShinyKanto47 {
-    background-color: darkgray;
+    background-color: #FF99FF;;
+    width: 17%;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5098,7 +5658,8 @@ p {
 }
 
 #ShinyKanto51 {
-    background-color: darkgray;
+    background-color: #FF99FF;;
+    width: 17%;;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5128,7 +5689,8 @@ p {
 }
 
 #ShinyKanto52 {
-    background-color: darkgray;
+    background-color: #FF99FF;;
+    width: 17%;;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5158,7 +5720,8 @@ p {
 }
 
 #ShinyKanto52-b {
-    background-color: darkgray;
+    background-color: #FF99FF;;
+    width: 17%;;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5172,7 +5735,8 @@ p {
 }
 
 #ShinyKanto53 {
-    background-color: darkgray;
+    background-color: #FF99FF;;
+    width: 17%;;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5277,7 +5841,8 @@ p {
 }
 
 #ShinyKanto58-a {
-    background-color: darkgray;
+    background-color: #FF99FF;;
+    width: 17%;;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5307,7 +5872,8 @@ p {
 }
 
 #ShinyKanto59-a {
-    background-color: darkgray;
+    background-color: #FF99FF;;
+    width: 17%;;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5321,7 +5887,8 @@ p {
 }
 
 #ShinyKanto60 {
-    background-color: darkgray;
+    background-color: #FF99FF;;
+    width: 17%;;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5335,7 +5902,8 @@ p {
 }
 
 #ShinyKanto61 {
-    background-color: darkgray;
+    background-color: #FF99FF;;
+    width: 17%;;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5349,7 +5917,8 @@ p {
 }
 
 #ShinyKanto62 {
-    background-color: darkgray;
+    background-color: #FF99FF;;
+    width: 17%;;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5458,7 +6027,8 @@ p {
 }
 
 #ShinyKanto69 {
-    background-color: darkgray;
+    background-color: #FF99FF;
+    width: 17%;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5472,7 +6042,8 @@ p {
 }
 
 #ShinyKanto70 {
-    background-color: darkgray;
+    background-color: #FF99FF;;
+    width: 17%;;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5486,7 +6057,8 @@ p {
 }
 
 #ShinyKanto71 {
-    background-color: darkgray;
+    background-color: #FF99FF;;
+    width: 17%;;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5500,7 +6072,8 @@ p {
 }
 
 #ShinyKanto72 {
-    background-color: darkgray;
+    background-color: #FF99FF;;
+    width: 17%;;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5514,7 +6087,8 @@ p {
 }
 
 #ShinyKanto73 {
-    background-color: darkgray;
+    background-color: #FF99FF;
+    width: 17%;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5529,7 +6103,7 @@ p {
 }
 
 #ShinyKanto74 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5558,7 +6132,7 @@ p {
 }
 
 #ShinyKanto75 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5587,7 +6161,7 @@ p {
 }
 
 #ShinyKanto76 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5602,7 +6176,7 @@ p {
 }
 
 #ShinyKanto76-a {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5631,7 +6205,7 @@ p {
 }
 
 #ShinyKanto77-a {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5661,7 +6235,7 @@ p {
 }
 
 #ShinyKanto78-a {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5677,7 +6251,7 @@ p {
 }
 
 #ShinyKanto79 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5691,7 +6265,7 @@ p {
 }
 
 #ShinyKanto79-a {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5721,7 +6295,7 @@ p {
 }
 
 #ShinyKanto80-a {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5766,7 +6340,7 @@ p {
 }
 
 #ShinyKanto83 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5780,7 +6354,7 @@ p {
 }
 
 #ShinyKanto83-a {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5794,7 +6368,7 @@ p {
 }
 
 #ShinyKanto84 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5808,7 +6382,7 @@ p {
 }
 
 #ShinyKanto85 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5823,7 +6397,7 @@ p {
 }
 
 #ShinyKanto86 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5837,7 +6411,7 @@ p {
 }
 
 #ShinyKanto87 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5866,7 +6440,7 @@ p {
 }
 
 #ShinyKanto88-a {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -5896,7 +6470,7 @@ p {
 }
 
 #ShinyKanto89-a {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6016,7 +6590,7 @@ p {
 }
 
 #ShinyKanto97 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6046,7 +6620,7 @@ p {
 }
 
 #ShinyKanto99 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6075,7 +6649,7 @@ p {
 }
 
 #ShinyKanto100-a {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6105,7 +6679,7 @@ p {
 
 
 #ShinyKanto101-a {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6211,7 +6785,7 @@ p {
 }
 
 #ShinyKanto106 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6225,7 +6799,7 @@ p {
 }
 
 #ShinyKanto107 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6254,7 +6828,7 @@ p {
 }
 
 #ShinyKanto109 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6269,7 +6843,7 @@ p {
 }
 
 #ShinyKanto110 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6283,7 +6857,7 @@ p {
 }
 
 #ShinyKanto110-a {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6343,7 +6917,7 @@ p {
 }
 
 #ShinyKanto114 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6357,7 +6931,7 @@ p {
 }
 
 #ShinyKanto115 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6402,7 +6976,7 @@ p {
 }
 
 #ShinyKanto118 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6418,7 +6992,7 @@ p {
 
 
 #ShinyKanto119 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6432,7 +7006,7 @@ p {
 }
 
 #ShinyKanto120 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6446,7 +7020,7 @@ p {
 }
 
 #ShinyKanto121 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6460,7 +7034,7 @@ p {
 }
 
 #ShinyKanto122 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6474,7 +7048,7 @@ p {
 }
 
 #ShinyKanto122-a {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6504,7 +7078,7 @@ p {
 }
 
 #ShinyKanto124 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6564,7 +7138,7 @@ p {
 }
 
 #ShinyKanto128 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6623,7 +7197,7 @@ p {
 }
 
 #ShinyKanto132 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6729,7 +7303,7 @@ p {
 }
 
 #ShinyKanto139 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6789,7 +7363,7 @@ p {
 }
 
 #ShinyKanto143 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6818,7 +7392,7 @@ p {
 }
 
 #ShinyKanto144-a {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6847,7 +7421,7 @@ p {
 }
 
 #ShinyKanto145-a {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6877,7 +7451,7 @@ p {
 }
 
 #ShinyKanto146-a {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6952,7 +7526,7 @@ p {
 }
 
 #ShinyKanto151 {
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7060,7 +7634,7 @@ p {
 }
 
 #ShinyJohto06-a{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7150,7 +7724,7 @@ p {
 }
 
 #ShinyJohto12{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7164,7 +7738,7 @@ p {
 }
 
 #ShinyJohto13{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7178,7 +7752,7 @@ p {
 }
 
 #ShinyJohto14{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7192,7 +7766,7 @@ p {
 }
 
 #ShinyJohto15{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7207,7 +7781,7 @@ p {
 }
 
 #ShinyJohto16{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7221,7 +7795,7 @@ p {
 }
 
 #ShinyJohto17{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7265,7 +7839,7 @@ p {
 }
 
 #ShinyJohto20{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7280,7 +7854,7 @@ p {
 }
 
 #ShinyJohto21{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7294,7 +7868,7 @@ p {
 }
 
 #ShinyJohto22{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7308,7 +7882,7 @@ p {
 }
 
 #ShinyJohto23{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7337,7 +7911,7 @@ p {
 }
 
 #ShinyJohto25{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7428,7 +8002,7 @@ p {
 }
 
 #ShinyJohto31{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7487,7 +8061,7 @@ p {
 }
 
 #ShinyJohto35{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7593,7 +8167,7 @@ p {
 }
 
 #ShinyJohto42{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7607,7 +8181,7 @@ p {
 }
 
 #ShinyJohto43{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7621,7 +8195,7 @@ p {
 }
 
 #ShinyJohto44{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7696,7 +8270,7 @@ p {
 }
 
 #ShinyJohto48-a{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7756,7 +8330,7 @@ p {
 }
 
 #ShinyJohto52{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7801,7 +8375,7 @@ p {
 }
 
 #ShinyJohto55{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7891,7 +8465,7 @@ p {
 }
 
 #ShinyJohto60-a{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7905,7 +8479,7 @@ p {
 }
 
 #ShinyJohto61{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -7965,7 +8539,7 @@ p {
 }
 
 #ShinyJohto64-a{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -8009,7 +8583,7 @@ p {
 }
 
 #ShinyJohto67{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -8024,7 +8598,7 @@ p {
 }
 
 #ShinyJohto68{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -8068,7 +8642,7 @@ p {
 }
 
 #ShinyJohto71{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -8082,7 +8656,7 @@ p {
 }
 
 #ShinyJohto71-a{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -8097,7 +8671,7 @@ p {
 }
 
 #ShinyJohto72{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -8111,7 +8685,7 @@ p {
 }
 
 #ShinyJohto73{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -8140,7 +8714,7 @@ p {
 }
 
 #ShinyJohto75{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -8200,7 +8774,7 @@ p {
 }
 
 #ShinyJohto79{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -8214,7 +8788,7 @@ p {
 }
 
 #ShinyJohto80{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -8228,7 +8802,7 @@ p {
 }
 
 #ShinyJohto81{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -8258,7 +8832,7 @@ p {
 }
 
 #ShinyJohto83{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -8288,7 +8862,7 @@ p {
 }
 
 #ShinyJohto85{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -8303,7 +8877,7 @@ p {
 }
 
 #ShinyJohto86{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -8318,7 +8892,7 @@ p {
 }
 
 #ShinyJohto87{
-    background-color: darkgray;
+    background-color: #FF99FF;
     width: 17%;
     height: 25%;
     position: relative;
