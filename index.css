@@ -37,6 +37,7 @@ p {
     background-repeat: no-repeat;
     
     
+    
 }
 
 #Kanto02 {
@@ -4658,6 +4659,8 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Johto94{
@@ -7114,6 +7117,1983 @@ p {
     margin: auto;
     display: block;
 }
+
+/*Sinnoh*/
+#Sinnoh01{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh01 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
+}
+
+#Sinnoh02{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh02 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh03{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh03 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
+}
+
+#Sinnoh04{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh04 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh05{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh05 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh06{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh06 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
+}
+
+#Sinnoh07{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh07 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh08{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh08 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh09{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh09 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
+}
+
+#Sinnoh10{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh10 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh11{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh11 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh12{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh12 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh13{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh13 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh14{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh14 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh15{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh15 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh16{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh16 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh17{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh17 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh18{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh18 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh19{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh19 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh20{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh20 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh21{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh21 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Sinnoh22{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh22 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
+}
+
+#Sinnoh23{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh23 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh24{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh24 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
+}
+
+#Sinnoh25{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh25 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
+}
+
+#Sinnoh26{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh26 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh27{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh27 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh28{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh28 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh29{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh29 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh30{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh30 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+
+#Sinnoh31{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh31 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh32{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh32 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh33{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh33 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh34{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh34 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh35{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh35 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh36{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh36 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh37{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh37 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    
+}
+
+#Sinnoh38{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh38 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh39{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh39 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh40{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh40 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
+}
+
+#Sinnoh41{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh41 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh42{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh42 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh43{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh43 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh44{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh44 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh45{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh45 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
+}
+
+#Sinnoh46{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh46 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh47{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh47 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh48{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh48 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh49{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh49 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh50{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh50 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
+}
+
+#Sinnoh51{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh51 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh52{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh52 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
+}
+
+#Sinnoh53{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh53 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh54{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh54 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh55{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh55 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
+}
+
+#Sinnoh56{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh56 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh57{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh57 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh58{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh58 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh59{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh59 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh60{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh60 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh61{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh61 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh62{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh62 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
+}
+
+#Sinnoh63{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh63 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh64{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh64 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh65{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh65 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh66{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh66 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
+}
+
+#Sinnoh67{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh67 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    
+}
+
+#Sinnoh68{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh68 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh69{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh69 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh70{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh70 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh71{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh71 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh72{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh72 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh73{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh73 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh74{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh74 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh75{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh75 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh76{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh76 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh77{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh77 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh78{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh78 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh79{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh79 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh80{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh80 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Sinnoh81{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh81 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh82{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh82 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh83{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh83 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh84{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh84 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh85{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh85 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh86{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh86 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh87{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh87 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh88{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh88 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh89{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh89 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
+}
+
+#Sinnoh90{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh90 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
+}
+
+#Sinnoh91{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh91 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh92{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh92 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh93{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh93 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
+}
+
+#Sinnoh94{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh94 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Sinnoh95{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh95 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh96{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh96 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
+}
+
+#Sinnoh97{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh97 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
+}
+
+#Sinnoh98{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh98 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh99{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh99 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#Sinnoh100{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh100 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
+}
+
+#Sinnoh101{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh101 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh102{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh102 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh103{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh103 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh104{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh104 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh105{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh105 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh106{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh106 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh107{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh107 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh108{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh108 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh109{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh109 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh110{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh110 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh111{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh111 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
+}
+
+#Sinnoh112{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh112 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh113{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh113 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh114{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh114 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh115{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh115 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh116{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh116 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh117{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh117 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
+}
+
+#Sinnoh118{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh118 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh119{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh119 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Sinnoh120{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh120 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh121{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Sinnoh121 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh122{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh122 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh123{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh123 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Sinnoh124{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Sinnoh124 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+
+
+
+
+
 
 
 
@@ -13576,6 +15556,1829 @@ p {
 }
 
 #ShinyHoenn140-c img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+
+/**/
+/*Sinnoh*/
+#ShinySinnoh01{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh01 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh02{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh02 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh03{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh03 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh04{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh04 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh05{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh05 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh06{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh06 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh07{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh07 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh08{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh08 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh09{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh09 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh10{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh10 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh11{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh11 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh12{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh12 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh13{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh13 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh14{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh14 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh15{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh15 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh16{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh16 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh17{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh17 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh18{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh18 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh19{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh19 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh20{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh20 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh21{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh21 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh22{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh22 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh23{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh23 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh24{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh24 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh25{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh25 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh26{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh26 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh27{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh27 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh28{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh28 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh29{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh29 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh30{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh30 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+
+#ShinySinnoh31{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh31 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh32{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh32 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh33{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh33 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh34{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh34 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh35{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh35 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh36{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh36 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh37{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh37 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh38{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh38 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh39{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh39 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh40{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh40 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh41{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh41 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh42{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh42 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh43{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh43 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh44{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh44 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh45{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh45 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh46{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh46 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh47{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh47 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh48{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh48 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh49{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh49 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh50{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh50 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh51{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh51 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh52{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh52 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh53{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh53 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh54{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh54 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh55{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh55 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh56{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh56 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh57{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh57 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh58{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh58 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh59{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh59 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh60{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh60 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh61{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh61 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh62{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh62 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh63{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh63 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh64{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh64 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh65{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh65 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh66{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh66 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh67{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh67 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh68{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh68 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh69{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh69 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh70{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh70 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh71{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh71 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh72{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh72 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh73{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh73 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh74{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh74 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh75{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh75 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh76{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh76 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh77{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh77 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh78{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh78 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh79{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh79 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh80{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh80 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh81{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh81 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh82{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh82 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh83{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh83 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh84{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh84 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh85{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh85 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh86{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh86 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh87{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh87 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh88{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh88 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh89{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh89 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh90{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh90 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh91{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh91 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh92{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh92 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh93{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh93 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh94{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh94 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh95{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh95 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh96{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh96 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh97{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh97 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh98{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh98 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh99{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh99 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh100{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh100 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh101{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh101 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh102{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh102 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh103{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh103 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh104{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh104 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh105{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh105 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh106{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh106 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh107{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh107 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh108{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh108 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh109{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh109 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh110{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh110 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh111{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh111 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh112{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh112 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh113{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh113 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh114{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh114 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh115{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh115 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh116{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh116 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh117{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh117 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh118{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh118 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh119{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh119 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh120{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh120 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh121{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinySinnoh121 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh122{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh122 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+#ShinySinnoh123{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh123 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinySinnoh124{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinySinnoh124 img {
     max-width: 100%;
     max-height: 100%;
     margin: auto;
