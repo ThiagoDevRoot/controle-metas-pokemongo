@@ -2,7 +2,6 @@ div {
     width: 100%;
     height: 100%;
     display: inline-block;
-
 }
 
 p {
@@ -11,8 +10,57 @@ p {
     font-weight: bold;
     font-size: 30px;
     font-family: Comic Sans MS;
+    color: white;
+    background-color: #836FFF;
+}
 
+body{
+    background-color: #9370DB;
 
+}
+
+.containerLogo {
+    display: flex; /* Transforma o div em um flex container */
+    align-items: center; /* Alinha os itens verticalmente no centro */
+    justify-content: space-between;
+    width: 10%;
+    height: 10%;
+    background-color: #9370DB;
+  }
+
+.containerNomeRegiao {
+    display: flex; /* Transforma o container em um flex container */
+    justify-content: center; /* Centraliza os itens horizontalmente */
+    align-items: center; /* Centraliza os itens verticalmente */ 
+  }
+
+#nomeRegiao{
+    text-align: center;
+    border: solid;
+    font-weight: bold;
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: Comic Sans MS;
+    color: white;
+    background-color: #836FFF;
+    width: 10%; /* Define a largura do elemento */
+    margin: 20 auto; /* Centraliza horizontalmente */
+    padding: 10px; /* Adiciona espaço interno */
+    margin-left: 5%;
+}
+
+/* Estilo para a linha HR */
+hr {
+    /* Certifique-se que o HR não esteja dentro de um elemento com display: none; */
+    display: block; /* Garante que o elemento seja exibido */
+    border: none;
+    border-top: 10px solid #836FFF;
+    margin: 20px auto; /* Centraliza a linha horizontalmente */
+    margin-left: 0%;
+    margin-bottom: 1%;
+    width: 100%; /* Define a largura da linha */
+    flex-grow: 1; /* Faz a linha ocupar todo o espaço disponível */
+    height: 2px; /* Define a altura da linha */
 }
 
 
@@ -22,9 +70,6 @@ p {
     height: 25%;
     margin-left: 5%;
     position: relative;
-    
-    
-    
 }
 
 #Kanto01 img {
@@ -34,10 +79,7 @@ p {
     display: block;
     opacity: 0.3;
     background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
-    
-    
-    
+    background-repeat: no-repeat;   
 }
 
 #Kanto02 {
@@ -377,8 +419,7 @@ p {
     background-color: darkgray;
     width: 17%;
     height: 25%;
-    position: relative;
-    
+    position: relative; 
 }
 
 #Kanto20-a img {
@@ -388,7 +429,6 @@ p {
     display: block;
     background-image: url("back_lucky_new.png");
     background-repeat: no-repeat;
-   
 }
 
 #Kanto21 {
@@ -405,6 +445,7 @@ p {
     display: block;
     background-image: url("back_lucky_new.png");
     background-repeat: no-repeat;
+    opacity: 0.3;
 }
 
 #Kanto22 {
@@ -561,7 +602,6 @@ p {
     width: 17%;
     height: 25%;
     position: relative;
-    
 }
 
 #Kanto29 img {
@@ -955,6 +995,7 @@ p {
     display: block;
     background-image: url("back_lucky_new.png");
     background-repeat: no-repeat;
+    opacity: 0.3;
 }
 
 #Kanto50-a {
@@ -978,7 +1019,6 @@ p {
     width: 17%;
     height: 25%;
     position: relative;
-    
 }
 
 #Kanto51 img {
@@ -1260,7 +1300,6 @@ p {
     width: 17%;
     height: 25%;
     position: relative;
-    
 }
 
 #Kanto62 img {
@@ -1296,7 +1335,6 @@ p {
     width: 17%;
     height: 25%;
     position: relative;
-    
 }
 
 #Kanto64 img {
@@ -1347,7 +1385,6 @@ p {
     width: 17%;
     height: 25%;
     position: relative;
-    
 }
 
 #Kanto67 img {
@@ -1598,7 +1635,6 @@ p {
     width: 17%;
     height: 25%;
     position: relative;
-    
 }
 
 #Kanto78 img {
@@ -1625,7 +1661,6 @@ p {
     display: block;
     background-image: url("back_lucky_new.png");
     background-repeat: no-repeat;
-    
 }
 
 #Kanto79 {
@@ -1649,7 +1684,6 @@ p {
     width: 17%;
     height: 25%;
     position: relative;
-    
 }
 
 #Kanto79-a img {
@@ -2104,7 +2138,6 @@ p {
     background-image: url("back_lucky_new.png");
     background-repeat: no-repeat;
 }
-
 
 #Kanto101-a {
     background-color: darkgray;
@@ -4839,6 +4872,7 @@ p {
     display: block;
     background-image: url("back_lucky_new.png");
     background-repeat: no-repeat;
+    opacity: 0.3;
 }
 
 #Hoenn03{
@@ -9725,7 +9759,7 @@ p {
 }
 
 #Unova37{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     position: relative;
@@ -9738,6 +9772,7 @@ p {
     display: block;
     background-image: url("back_lucky_new.png");
     background-repeat: no-repeat;
+    opacity: 0.3;
 }
 
 #Unova38{
@@ -11135,7 +11170,7 @@ p {
 }
 
 #Unova122{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     position: relative;
@@ -11146,6 +11181,9 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
 }
 
 #Unova123{
@@ -13902,6 +13940,1651 @@ p {
     display: block;
 }
 
+/*Região de Alola*/
+
+#Alola01{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola01 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola02{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola02 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola03{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola03 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola04{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola04 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola05{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola05 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola06{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola06 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola07{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola07 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola08{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola08 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola09{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola09 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola10{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola10 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola11{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola11 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola12{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola12 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola13{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola13 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola14{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola14 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola15{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola15 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola16{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola16 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola17{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola17 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola18{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola18 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola19{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola19 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola20{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola20 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola21{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola21 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola22{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola22 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola23{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola23 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola24{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola24 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola25{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola25 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola26{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola26 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola27{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola27 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola28{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola28 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola29{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola29 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola30{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola30 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola31{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola31 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola32{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola32 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola33{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola33 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola34{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola34 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola35{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola35 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola36{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola36 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola37{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola37 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola38{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola38 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola39{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola39 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola40{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola40 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola41{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola41 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola42{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola42 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola43{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola43 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola44{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola44 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola45{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola45 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola46{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola46 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola47{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola47 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola48{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola48 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola49{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola49 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+
+#Alola50{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola50 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola51{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola51 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola52{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola52 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola53{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola53 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola54{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola54 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola55{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola55 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola56{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola56 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola57{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola57 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola58{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola58 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola59{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola59 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola60{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola60 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola61{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola61 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola62{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola62 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola63{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola63 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola64{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola64 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola65{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola65 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola66{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola66 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola67{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola67 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola68{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola68 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola69{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola69 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola70{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola70 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola71{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola71 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola72{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola72 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola73{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola73 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola74{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola74 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola75{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola75 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola76{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola76 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola77{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola77 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola78{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola78 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola79{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola79 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola80{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola80 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola81{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola81 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola82{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola82 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola83{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola83 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola84{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola84 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola85{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola85 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola86{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola86 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola87{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola87 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola88{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola88 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola89{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola89 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola90{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola90 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola91{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola91 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola92{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola92 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola93{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola93 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola94{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola94 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola95{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola95 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola96{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola96 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola97{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola97 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola98{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola98 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola99{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola99 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola100{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola100 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola101{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola101 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola102{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola102 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola103{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola103 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola104{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola104 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola105{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola105 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola106{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola106 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola107{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola107 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola108{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola108 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola109{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola109 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola110{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola110 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola111{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola111 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola112{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola112 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola113{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola113 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola114{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola114 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola115{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola115 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola116{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola116 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+
+#Alola117{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola117 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+
+#Alola118{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola118 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola119{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola119 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola120{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola120 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola121{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Alola121 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola122{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola122 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola123{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola123 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Alola124{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#Alola124 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+
+
+
 
 /**********************************************/
 /*Shinys's Kanto*/
@@ -15005,11 +16688,10 @@ p {
 
 #ShinyKanto60 {
     background-color: darkgray;
-    width: 17%;;
+    width: 17%;
     width: 17%;
     height: 25%;
     position: relative;
-    opacity: 0.3;
 }
 
 #ShinyKanto60 img {
@@ -15017,11 +16699,12 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyKanto61 {
     background-color: darkgray;
-    width: 17%;;
+    width: 17%;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20719,7 +22402,7 @@ p {
 }
 
 #ShinySinnoh22{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20730,6 +22413,7 @@ p {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinySinnoh23{
@@ -26577,6 +28261,1648 @@ p {
 }
 
 #ShinyKalos120 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+/*Região de Alola*/
+
+#ShinyAlola01{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola01 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola02{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola02 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola03{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola03 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola04{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola04 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola05{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola05 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola06{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola06 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola07{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola07 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola08{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola08 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola09{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola09 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola10{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola10 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola11{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola11 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola12{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola12 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola13{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola13 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola14{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola14 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola15{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola15 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola16{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola16 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola17{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola17 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola18{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola18 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola19{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola19 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola20{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola20 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola21{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola21 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola22{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola22 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola23{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola23 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola24{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola24 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola25{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola25 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola26{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola26 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola27{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola27 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola28{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola28 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola29{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola29 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola30{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola30 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola31{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola31 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola32{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola32 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola33{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola33 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola34{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola34 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola35{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola35 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola36{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola36 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola37{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola37 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola38{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola38 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola39{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola39 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola40{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola40 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola41{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola41 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola42{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola42 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola43{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola43 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola44{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola44 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola45{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola45 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola46{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola46 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola47{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola47 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola48{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola48 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola49{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola49 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+
+#ShinyAlola50{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola50 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola51{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola51 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola52{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola52 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola53{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola53 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola54{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola54 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola55{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola55 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola56{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola56 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola57{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola57 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola58{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola58 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola59{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola59 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola60{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola60 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola61{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola61 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola62{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola62 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola63{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola63 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola64{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola64 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola65{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola65 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola66{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola66 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola67{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola67 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola68{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola68 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola69{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola69 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola70{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola70 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola71{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola71 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola72{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola72 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola73{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola73 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola74{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola74 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola75{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola75 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola76{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola76 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola77{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola77 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola78{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola78 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola79{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola79 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola80{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola80 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola81{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola81 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola82{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola82 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola83{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola83 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola84{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola84 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola85{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola85 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola86{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola86 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola87{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola87 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola88{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola88 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola89{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola89 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola90{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola90 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola91{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola91 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola92{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola92 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola93{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola93 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola94{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola94 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola95{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola95 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola96{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola96 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola97{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola97 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola98{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola98 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola99{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola99 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola100{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola100 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola101{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola101 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola102{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola102 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola103{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola103 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola104{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola104 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola105{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola105 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola106{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola106 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola107{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola107 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola108{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola108 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola109{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola109 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola110{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola110 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola111{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola111 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola112{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola112 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola113{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola113 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola114{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola114 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola115{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola115 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola116{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola116 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+
+#ShinyAlola117{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola117 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+
+#ShinyAlola118{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola118 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola119{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola119 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola120{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola120 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola121{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#ShinyAlola121 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola122{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola122 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola123{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola123 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyAlola124{
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyAlola124 img {
     max-width: 100%;
     max-height: 100%;
     margin: auto;
