@@ -15,7 +15,7 @@ p {
 }
 
 body{
-    background-color: #9370DB;
+    background-color: #7FFFD4;
 
 }
 
@@ -25,7 +25,7 @@ body{
     justify-content: space-between;
     width: 10%;
     height: 10%;
-    background-color: #9370DB;
+    background-color: #7FFFD4;
   }
 
 .containerNomeRegiao {
@@ -65,7 +65,7 @@ hr {
 
 
 #Kanto01 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     margin-left: 5%;
@@ -77,13 +77,13 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
+    /*opacity: 0.3;*/
+    /*background-image: url("back_lucky_new.png");*/
     background-repeat: no-repeat;   
 }
 
 #Kanto02 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -94,13 +94,13 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
+    /*opacity: 0.3;*/
+    /*background-image: url("back_lucky_new.png");*/
     background-repeat: no-repeat;
 }
 
 #Kanto03 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -111,13 +111,13 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
+    /*opacity: 0.3;*/
+    /*background-image: url("back_lucky_new.png");*/
     background-repeat: no-repeat;
 }
 
 #Kanto04 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -128,8 +128,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
+    /*opacity: 0.3;*/
+    /*background-image: url("back_lucky_new.png");*/
     background-repeat: no-repeat;
 }
 
@@ -150,7 +150,7 @@ hr {
 }
 
 #Kanto06 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     margin-left: 5%;
@@ -162,8 +162,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
+    /*opacity: 0.3;*/
+    /*background-image: url("back_lucky_new.png");*/
     background-repeat: no-repeat;
 }
 
@@ -184,7 +184,7 @@ hr {
 }
 
 #Kanto08 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -195,13 +195,13 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
+    /*opacity: 0.3;*/
+    /*background-image: url("back_lucky_new.png");*/
     background-repeat: no-repeat;
 }
 
 #Kanto09 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -212,9 +212,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*opacity: 0.3;*/
+    /*background-image: url("back_lucky_new.png");*/
 }
 
 #Kanto10 {
@@ -246,7 +245,7 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
+    /*background-image: url("back_lucky_new.png");*/
     background-repeat: no-repeat;
 }
 
@@ -262,12 +261,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block; 
-    background-image: url("back_lucky_new.png");
+    /*background-image: url("back_lucky_new.png");*/
     background-repeat: no-repeat;  
 }
 
 #Kanto13 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -278,8 +277,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
+    /*opacity: 0.3;*/
+    /*background-image: url("back_lucky_new.png");*/    
     background-repeat: no-repeat;
 }
 
@@ -295,8 +294,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto15 {
@@ -311,12 +310,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto16 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -328,13 +327,13 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
-    opacity: 0.3;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
+    
 }
 
 #Kanto17 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -345,12 +344,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto18 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -361,12 +360,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat; 
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat; */
 }
 
 #Kanto19 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -377,12 +376,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto19-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -393,12 +392,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto20 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -410,13 +409,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto20-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative; 
@@ -427,12 +425,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto21 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -443,13 +441,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
-    opacity: 0.3;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto22 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -460,12 +457,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto23 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -476,12 +473,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto24 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -493,12 +490,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto25 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -509,12 +506,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto26 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -525,12 +522,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto27 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -541,13 +538,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto27-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -558,13 +554,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto28 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -576,13 +571,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;   
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/  
 }
 
 #Kanto28-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -593,12 +587,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block; 
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat; 
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto29 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -609,13 +603,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto30 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -626,12 +619,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+   /*background-image: url("back_lucky_new.png");*/
+   /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto31 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -641,14 +634,13 @@ hr {
     max-width: 100%;
     max-height: 100%;
     margin: auto;
-    display: block;
-    opacity: 0.3;  
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat; 
+    display: block; 
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto32 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -660,13 +652,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto33 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;    
@@ -677,12 +668,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto34 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -693,13 +684,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto35 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -710,12 +700,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto36 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -726,13 +716,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto37 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -744,12 +733,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto37-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -760,13 +749,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto38 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -777,12 +765,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block; 
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto38-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -793,13 +781,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto39 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -810,12 +797,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto40 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -827,13 +814,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto41 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -844,12 +830,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto42 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -860,12 +846,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto43 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -876,13 +862,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto44 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -893,12 +878,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto45 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -910,12 +895,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto46 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -926,12 +911,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto47 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -942,12 +927,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto48 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -958,13 +943,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto49 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -974,14 +958,13 @@ hr {
     max-width: 100%;
     max-height: 100%;
     margin: auto;
-    display: block;
-    opacity: 0.3;     
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;                  
+    display: block;   
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/                
 }
 
 #Kanto50 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -993,13 +976,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
-    opacity: 0.3;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/  
 }
 
 #Kanto50-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1010,12 +992,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto51 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1026,12 +1008,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto51-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1042,12 +1024,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto52 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1058,12 +1040,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto52-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1075,13 +1057,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto52-b {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1092,12 +1073,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto53 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1108,13 +1089,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto53-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1125,12 +1105,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto54 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1141,12 +1121,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+   /*background-image: url("back_lucky_new.png");*/
+   /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto55 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1158,13 +1138,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto56 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1175,12 +1154,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto57 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1191,12 +1170,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto58 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1207,12 +1186,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto58-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1223,12 +1202,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto59 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1240,13 +1219,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto59-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1257,12 +1235,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto60 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1273,13 +1251,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto61 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1290,13 +1267,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto62 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1307,13 +1283,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto63 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1325,13 +1300,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto64 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1342,12 +1316,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto65 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1358,13 +1332,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto66 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1375,13 +1348,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto67 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1392,13 +1364,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto68 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1410,13 +1381,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto69 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1427,12 +1397,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto70 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1443,12 +1413,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto71 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1459,12 +1429,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto72 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1475,12 +1445,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto73 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1492,13 +1462,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto74 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1509,12 +1478,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto74-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1525,13 +1494,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto75 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1542,12 +1510,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto75-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1558,13 +1526,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto76 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1576,13 +1543,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto76-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1593,13 +1559,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto77 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1610,12 +1575,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto77-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1626,12 +1591,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto78 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1642,12 +1607,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto78-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1659,12 +1624,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto79 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1675,12 +1640,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/ 
 }
 
 #Kanto79-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1691,12 +1656,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto80 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1707,12 +1672,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto80-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1723,12 +1688,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto81 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1740,12 +1705,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto82 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1756,12 +1721,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto83 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1772,12 +1737,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto83-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1788,13 +1753,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto84 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1805,12 +1769,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto85 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1822,12 +1786,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto86 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1838,12 +1802,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto87 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1854,12 +1818,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto88 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1870,12 +1834,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto88-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1886,12 +1850,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+   /*background-image: url("back_lucky_new.png");*/
+   /*background-repeat: no-repeat;*/
 }
 
 #Kanto89 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1903,13 +1867,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+   /*background-image: url("back_lucky_new.png");*/
+   /*background-repeat: no-repeat;*/
 }
 
 #Kanto89-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1920,12 +1883,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto90 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1936,12 +1899,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto91 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1952,13 +1915,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto92 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1969,12 +1931,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+     /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto93 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -1987,11 +1949,12 @@ hr {
     margin: auto;
     display: block;
     background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto94 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2002,13 +1965,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto95 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2019,13 +1981,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto96 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2036,12 +1997,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto97 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2052,12 +2013,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto98 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2069,12 +2030,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto99 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2085,12 +2046,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto100 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2101,13 +2062,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto100-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2118,12 +2078,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto101 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2134,13 +2094,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+   /*background-image: url("back_lucky_new.png");*/
+   /*background-repeat: no-repeat;*/
 }
 
 #Kanto101-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2152,12 +2111,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto102 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2168,12 +2127,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto103 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2184,12 +2143,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto103-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2200,12 +2159,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto104 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2216,13 +2175,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto105 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2234,12 +2192,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto105-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2250,12 +2208,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto106 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2266,13 +2224,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto107 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2283,12 +2240,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto108 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2299,12 +2256,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto109 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2316,12 +2273,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto110 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2332,12 +2289,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto110-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2348,12 +2305,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto111 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2364,12 +2321,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto112 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2380,12 +2337,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto113 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2397,12 +2354,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto114 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2413,12 +2370,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto115 {
-    background-color: #FF99FF;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2429,10 +2386,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto116 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2443,13 +2402,13 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 
 #Kanto117 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2460,12 +2419,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto118 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2477,13 +2436,13 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 
 #Kanto119 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2494,12 +2453,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto120 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2510,12 +2469,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto121 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2526,12 +2485,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto122 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2542,12 +2501,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto122-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2559,12 +2518,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto123 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2575,12 +2534,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto124 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2591,12 +2550,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto125 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2607,13 +2566,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto126 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2624,13 +2582,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto127 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2642,12 +2599,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto128 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2658,12 +2615,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto129 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2674,12 +2631,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto130 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2690,13 +2647,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto131 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2707,13 +2663,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto132 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2725,12 +2680,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto133 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2741,12 +2696,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto134 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2757,13 +2712,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto135 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2774,12 +2728,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto136 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2790,13 +2744,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto137 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2808,13 +2761,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto138 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2825,12 +2777,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto139 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2841,13 +2793,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto140 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2858,12 +2809,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto141 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2874,13 +2825,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto142 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2892,12 +2842,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto143 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2908,12 +2858,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto144 {
-    background-color: #FF99FF;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2924,10 +2874,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto144-a {
-    background-color: #FF99FF;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2938,10 +2890,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto145 {
-    background-color: #FF99FF;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2952,10 +2906,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto145-a {
-    background-color: #FF99FF;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2967,10 +2923,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto146 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2981,12 +2939,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto146-a {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -2997,12 +2955,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto147 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3013,13 +2971,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto148 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3030,13 +2987,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto149 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3048,13 +3004,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto150 {
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3065,13 +3020,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Kanto151 {
-    background-color: #FF99FF;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3082,6 +3036,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 /*Johto*/
@@ -3559,6 +3515,7 @@ hr {
     display: block;
     background-image: url("back_lucky_new.png");
     background-repeat: no-repeat;
+    opacity: 0.3;
 }
 
 #Johto29{
@@ -6690,7 +6647,7 @@ hr {
 }
 
 #Hoenn113{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     position: relative;
@@ -6703,6 +6660,7 @@ hr {
     display: block;
     background-image: url("back_lucky_new.png");
     background-repeat: no-repeat;
+    opacity: 0.3;
 }
 
 #Hoenn114{
@@ -8496,7 +8454,7 @@ hr {
 }
 
 #Sinnoh82{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     position: relative;
@@ -8509,6 +8467,7 @@ hr {
     display: block;
     background-image: url("back_lucky_new.png");
     background-repeat: no-repeat;
+    opacity: 0.3;
 }
 
 #Sinnoh83{
@@ -9467,7 +9426,7 @@ hr {
 }
 
 #Unova19{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     position: relative;
@@ -9530,7 +9489,7 @@ hr {
 }
 
 #Unova23{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     position: relative;
@@ -9543,6 +9502,7 @@ hr {
     display: block;
     background-image: url("back_lucky_new.png");
     background-repeat: no-repeat;
+    opacity: 0.3;
 }
 
 #Unova24{
@@ -9645,7 +9605,7 @@ hr {
 
 
 #Unova30{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     position: relative;
@@ -9658,6 +9618,7 @@ hr {
     display: block;
     background-image: url("back_lucky_new.png");
     background-repeat: no-repeat;
+    opacity: 0.3;
 }
 
 #Unova31{
@@ -9909,7 +9870,7 @@ hr {
 }
 
 #Unova46{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     position: relative;
@@ -9921,6 +9882,7 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
     background-image: url("back_lucky_new.png");
     background-repeat: no-repeat;
 }
@@ -10215,7 +10177,7 @@ hr {
 }
 
 #Unova63{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     position: relative;
@@ -10228,6 +10190,7 @@ hr {
     display: block;
     background-image: url("back_lucky_new.png");
     background-repeat: no-repeat;
+    opacity: 0.3;
 }
 
 #Unova64{
@@ -10789,7 +10752,7 @@ hr {
     display: block;
     background-image: url("back_lucky_new.png");
     background-repeat: no-repeat;
-    opacity: 0.3;
+   
 }
 
 #Unova99{
@@ -10822,6 +10785,7 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+     opacity: 0.3;
     background-image: url("back_lucky_new.png");
     background-repeat: no-repeat;
 }
@@ -11563,7 +11527,7 @@ hr {
 }
 
 #Unova146{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     position: relative;
@@ -11574,6 +11538,7 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #Unova147{
@@ -12368,6 +12333,7 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
     background-image: url("back_lucky_new.png");
     background-repeat: no-repeat;
 }
@@ -13954,6 +13920,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola02{
@@ -13967,6 +13935,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola03{
@@ -13980,6 +13950,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola04{
@@ -13993,6 +13965,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola05{
@@ -14006,6 +13980,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola06{
@@ -14020,6 +13996,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola07{
@@ -14033,6 +14011,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola08{
@@ -14046,6 +14026,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola09{
@@ -14059,6 +14041,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola10{
@@ -14072,6 +14056,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola11{
@@ -14086,6 +14072,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola12{
@@ -14099,6 +14087,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola13{
@@ -14112,6 +14102,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola14{
@@ -14125,6 +14117,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola15{
@@ -14138,6 +14132,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola16{
@@ -14152,6 +14148,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola17{
@@ -14165,6 +14163,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola18{
@@ -14178,10 +14178,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola19{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
 }
@@ -14191,6 +14193,9 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
 }
 
 #Alola20{
@@ -14204,6 +14209,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola21{
@@ -14218,6 +14225,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola22{
@@ -14231,10 +14240,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola23{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
 }
@@ -14244,6 +14255,9 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+    opacity: 0.3;
 }
 
 #Alola24{
@@ -14257,6 +14271,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola25{
@@ -14270,6 +14286,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola26{
@@ -14297,6 +14315,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola28{
@@ -14376,6 +14396,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola34{
@@ -14389,6 +14411,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola35{
@@ -14429,6 +14453,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola38{
@@ -14442,6 +14468,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola39{
@@ -14455,6 +14483,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola40{
@@ -14482,6 +14512,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola42{
@@ -14495,6 +14527,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola43{
@@ -14534,6 +14568,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola46{
@@ -14561,6 +14597,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola48{
@@ -14574,10 +14612,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola49{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
 }
@@ -14587,6 +14627,9 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 
@@ -14615,6 +14658,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola52{
@@ -14628,6 +14673,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola53{
@@ -14641,6 +14688,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola54{
@@ -15090,6 +15139,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola88{
@@ -15261,6 +15312,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola101{
@@ -15407,6 +15460,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola112{
@@ -15567,6 +15622,8 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
 #Alola124{
@@ -15580,8 +15637,1317 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
 }
 
+
+/*Galar*/
+#Galar01 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+    
+}
+
+#Galar01 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Galar02 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar02 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Galar03 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar03 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Galar04 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar04 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Galar05 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar05 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Galar06 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+    
+}
+
+#Galar06 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Galar07 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar07 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Galar08 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar08 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Galar09 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar09 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Galar10 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar10 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar11 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+    
+}
+
+#Galar11 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar12 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar12 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar13 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar13 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar14 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar14 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar15 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar15 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar16 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+    
+}
+
+#Galar16 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar17 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar17 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar18 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar18 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+
+#Galar19 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar19 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar20 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar20 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar21 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+    
+}
+
+#Galar21 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar22 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar22 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar23 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar23 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar24 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar24 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar25 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar25 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar26 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Galar26 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar27 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar27 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar28 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar28 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar29 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar29 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar30 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar30 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar31 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Galar31 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar32 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar32 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar33 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar33 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar34 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar34 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar35 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar35 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar36 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Galar36 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar37 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar37 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar38 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar38 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar39 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar39 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar40 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar40 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar41 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Galar41 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar42 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar42 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar43 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar43 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+
+#Galar44 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar44 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+
+#Galar45 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar45 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar46 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Galar46 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar47 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar47 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar48 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar48 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar49 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar49 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar50 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar50 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar51 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Galar51 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar52 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar52 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar53 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar53 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar54 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar54 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar55 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar55 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar56 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Galar56 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar57 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar57 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar58 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar58 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar59 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar59 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar60 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar60 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar61 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Galar61 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar62 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar62 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar63 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar63 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar64 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar64 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar65 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar65 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+
+#Galar66 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Galar66 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar67 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar67 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar68 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar68 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar69 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar69 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar70 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar70 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar71 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Galar71 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar72 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar72 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar73 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar73 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar74 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar74 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar75 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar75 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar76 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Galar76 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar77 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar77 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar78 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar78 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar79 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar79 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar80 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar80 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar81 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Galar81 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar82 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar82 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar83 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar83 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar84 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar84 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+
+#Galar85 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar85 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar86 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#Galar86 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar87 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar87 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar88 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar88 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar89 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar89 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Galar90 {
+    background-color: #FF99FF;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Galar90 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
 
 
 
@@ -15590,7 +16956,7 @@ hr {
 /*Shinys's Kanto*/
 
 #ShinyKanto01 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15603,11 +16969,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto02 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15618,11 +16983,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto03 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15633,11 +16997,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto04 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15648,11 +17011,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto05 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15663,11 +17025,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto06 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     margin-left: 5%;
@@ -15679,11 +17040,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto07 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15694,11 +17054,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto08 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15709,11 +17068,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto09 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15724,11 +17082,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto10 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15739,11 +17096,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto11 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15758,7 +17114,7 @@ hr {
 }
 
 #ShinyKanto12 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15772,7 +17128,7 @@ hr {
 }
 
 #ShinyKanto13 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15783,11 +17139,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto14 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15798,11 +17153,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto15 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15813,11 +17167,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto16 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15832,7 +17185,7 @@ hr {
 }
 
 #ShinyKanto17 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15846,7 +17199,7 @@ hr {
 }
 
 #ShinyKanto18 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15857,11 +17210,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block; 
-    opacity: 0.3;
 }
 
 #ShinyKanto19 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15872,11 +17224,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto19-a {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15887,11 +17238,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto20 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15903,11 +17253,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    /*opacity: 0.3;*/
 }
 
 #ShinyKanto20-a {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15922,7 +17271,7 @@ hr {
 }
 
 #ShinyKanto21 {
-    background-color: #FF99FF;;
+    background-color: #FFD700;
     width: 17%;;
     width: 17%;
     height: 25%;
@@ -15937,7 +17286,7 @@ hr {
 }
 
 #ShinyKanto22 {
-    background-color: #FF99FF;;
+    background-color: #FFD700;
     width: 17%;;
     width: 17%;
     height: 25%;
@@ -15952,7 +17301,7 @@ hr {
 }
 
 #ShinyKanto23 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15963,11 +17312,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto24 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15979,11 +17327,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto25 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15994,11 +17341,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto26 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16009,11 +17355,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto27 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16024,11 +17369,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto27-a {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16039,11 +17383,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto28 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16055,11 +17398,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto28-a {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16070,11 +17412,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;  
-    opacity: 0.3;
 }
 
 #ShinyKanto29 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16086,11 +17427,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto30 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16101,11 +17441,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto31 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16116,11 +17455,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto32 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16132,11 +17470,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto33 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;    
@@ -16147,11 +17484,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto34 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16162,11 +17498,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto35 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16177,11 +17512,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto36 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16192,11 +17526,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto37 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16208,11 +17541,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto37-a {
-    background-color: #FF99FF;;
+    background-color: #FFD700;;
     width: 17%;;
     width: 17%;
     height: 25%;
@@ -16227,7 +17559,7 @@ hr {
 }
 
 #ShinyKanto38 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16238,11 +17570,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block; 
-    opacity: 0.3;
 }
 
 #ShinyKanto38-a {
-    background-color: #FF99FF;;
+    background-color: #FFD700;;
     width: 17%;;
     width: 17%;
     height: 25%;
@@ -16257,7 +17588,7 @@ hr {
 }
 
 #ShinyKanto39 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16268,11 +17599,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto40 {
-    background-color: darkgray;;
+    background-color: #FFD700;
     width: 17%;;
     width: 17%;
     height: 25%;
@@ -16285,11 +17615,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto41 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16300,11 +17629,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto42 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16315,11 +17643,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto43 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16330,11 +17657,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto44 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16345,11 +17671,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto45 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16361,11 +17686,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto46 {
-    background-color: #FF99FF;;
+    background-color: #FFD700;
     width: 17%;;
     width: 17%;
     height: 25%;
@@ -16380,7 +17704,7 @@ hr {
 }
 
 #ShinyKanto47 {
-    background-color: #FF99FF;;
+    background-color: #FFD700;
     width: 17%;
     width: 17%;
     height: 25%;
@@ -16395,7 +17719,7 @@ hr {
 }
 
 #ShinyKanto48 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16406,11 +17730,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto49 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16421,11 +17744,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto50 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16437,11 +17759,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto50-a {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16452,11 +17773,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto51 {
-    background-color: darkgray;;
+    background-color: #FFD700;
     width: 17%;;
     width: 17%;
     height: 25%;
@@ -16469,11 +17789,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto51-a {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16484,11 +17803,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto52 {
-    background-color: #FF99FF;;
+    background-color:#FFD700;
     width: 17%;;
     width: 17%;
     height: 25%;
@@ -16503,7 +17821,7 @@ hr {
 }
 
 #ShinyKanto52-a {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16515,11 +17833,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto52-b {
-    background-color: #FF99FF;;
+    background-color: #FFD700;
     width: 17%;;
     width: 17%;
     height: 25%;
@@ -16534,7 +17851,7 @@ hr {
 }
 
 #ShinyKanto53 {
-    background-color: #FF99FF;;
+    background-color: #FFD700;
     width: 17%;;
     width: 17%;
     height: 25%;
@@ -16549,7 +17866,7 @@ hr {
 }
 
 #ShinyKanto53-a {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16560,11 +17877,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto54 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16575,11 +17891,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto55 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16591,11 +17906,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto56 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16606,11 +17920,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto57 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16621,11 +17934,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto58 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16636,11 +17948,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto58-a {
-    background-color: darkgray;;
+    background-color: #FFD700;;
     width: 17%;;
     width: 17%;
     height: 25%;
@@ -16652,11 +17963,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto59 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16668,11 +17978,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto59-a {
-    background-color: #FF99FF;;
+    background-color: #FFD700;;
     width: 17%;;
     width: 17%;
     height: 25%;
@@ -16687,7 +17996,7 @@ hr {
 }
 
 #ShinyKanto60 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     width: 17%;
     height: 25%;
@@ -16699,11 +18008,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto61 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     width: 17%;
     height: 25%;
@@ -16715,11 +18023,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto62 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;;
     width: 17%;
     height: 25%;
@@ -16732,11 +18039,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto63 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16748,11 +18054,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto64 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16764,11 +18069,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto65 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16779,11 +18083,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto66 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16794,11 +18097,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto67 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16810,11 +18112,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto68 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16826,11 +18127,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto69 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     width: 17%;
     height: 25%;
@@ -16842,11 +18142,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto70 {
-    background-color: #FF99FF;;
+    background-color: #FFD700;;
     width: 17%;;
     width: 17%;
     height: 25%;
@@ -16861,7 +18160,7 @@ hr {
 }
 
 #ShinyKanto71 {
-    background-color: darkgray;;
+    background-color: #FFD700;
     width: 17%;;
     width: 17%;
     height: 25%;
@@ -16873,11 +18172,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto72 {
-    background-color: #FF99FF;;
+    background-color: #FFD700;;
     width: 17%;;
     width: 17%;
     height: 25%;
@@ -16892,7 +18190,7 @@ hr {
 }
 
 #ShinyKanto73 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     width: 17%;
     height: 25%;
@@ -16908,7 +18206,7 @@ hr {
 }
 
 #ShinyKanto74 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16919,11 +18217,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto74-a {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16934,11 +18231,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto75 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16952,7 +18248,7 @@ hr {
 }
 
 #ShinyKanto75-a {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16963,11 +18259,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto76 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16982,7 +18277,7 @@ hr {
 }
 
 #ShinyKanto76-a {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -16993,11 +18288,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto77 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17008,11 +18302,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto77-a {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17026,7 +18319,7 @@ hr {
 }
 
 #ShinyKanto78 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17038,11 +18331,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto78-a {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17054,11 +18346,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    
 }
 
 #ShinyKanto79 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17069,11 +18360,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto79-a {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17085,11 +18375,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto80 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17100,11 +18389,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto80-a {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17118,7 +18406,7 @@ hr {
 }
 
 #ShinyKanto81 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17130,11 +18418,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto82 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17145,11 +18432,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto83 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17163,7 +18449,7 @@ hr {
 }
 
 #ShinyKanto83-a {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17177,7 +18463,7 @@ hr {
 }
 
 #ShinyKanto84 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17191,7 +18477,7 @@ hr {
 }
 
 #ShinyKanto85 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17206,7 +18492,7 @@ hr {
 }
 
 #ShinyKanto86 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17220,7 +18506,7 @@ hr {
 }
 
 #ShinyKanto87 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17234,7 +18520,7 @@ hr {
 }
 
 #ShinyKanto88 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17245,11 +18531,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto88-a {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17263,7 +18548,7 @@ hr {
 }
 
 #ShinyKanto89 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17275,11 +18560,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto89-a {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17293,7 +18577,7 @@ hr {
 }
 
 #ShinyKanto90 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17304,11 +18588,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto91 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17319,11 +18602,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto92 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17334,11 +18616,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto93 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17350,11 +18631,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto94 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17365,11 +18645,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto95 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17380,11 +18659,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto96 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17395,11 +18673,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto97 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17413,7 +18690,7 @@ hr {
 }
 
 #ShinyKanto98 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17425,11 +18702,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto99 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17440,11 +18716,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto100 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17455,11 +18730,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto100-a {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17470,11 +18744,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto101 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17485,12 +18758,11 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 
 #ShinyKanto101-a {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17505,7 +18777,7 @@ hr {
 }
 
 #ShinyKanto102 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17516,11 +18788,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto103 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17531,11 +18802,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto103-a {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17546,11 +18816,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto104 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17561,11 +18830,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto105 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17577,11 +18845,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto105-a {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17592,11 +18859,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto106 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17607,11 +18873,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto107 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17625,7 +18890,7 @@ hr {
 }
 
 #ShinyKanto108 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17636,11 +18901,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto109 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17655,7 +18919,7 @@ hr {
 }
 
 #ShinyKanto110 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17669,7 +18933,7 @@ hr {
 }
 
 #ShinyKanto110-a {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17683,7 +18947,7 @@ hr {
 }
 
 #ShinyKanto111 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17694,11 +18958,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto112 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17709,11 +18972,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto113 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17725,11 +18987,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto114 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17743,7 +19004,7 @@ hr {
 }
 
 #ShinyKanto115 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17757,7 +19018,7 @@ hr {
 }
 
 #ShinyKanto116 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17768,12 +19029,11 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 
 #ShinyKanto117 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17784,11 +19044,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto118 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17804,7 +19063,7 @@ hr {
 
 
 #ShinyKanto119 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17818,7 +19077,7 @@ hr {
 }
 
 #ShinyKanto120 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17832,7 +19091,7 @@ hr {
 }
 
 #ShinyKanto121 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17846,7 +19105,7 @@ hr {
 }
 
 #ShinyKanto122 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17860,7 +19119,7 @@ hr {
 }
 
 #ShinyKanto122-a {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17875,7 +19134,7 @@ hr {
 }
 
 #ShinyKanto123 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17886,11 +19145,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto124 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17904,7 +19162,7 @@ hr {
 }
 
 #ShinyKanto125 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17915,11 +19173,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto126 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17930,11 +19187,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto127 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17946,11 +19202,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto128 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17964,7 +19219,7 @@ hr {
 }
 
 #ShinyKanto129 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17975,11 +19230,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto130 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -17990,11 +19244,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto131 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18005,11 +19258,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto132 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18024,7 +19276,7 @@ hr {
 }
 
 #ShinyKanto133 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18035,11 +19287,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto134 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18050,11 +19301,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto135 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18065,11 +19315,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto136 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18080,11 +19329,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto137 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18096,11 +19344,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto138 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18111,11 +19358,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto139 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18129,7 +19375,7 @@ hr {
 }
 
 #ShinyKanto140 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18140,11 +19386,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto141 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18155,11 +19400,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto142 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18171,11 +19415,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto143 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18189,7 +19432,7 @@ hr {
 }
 
 #ShinyKanto144 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18200,11 +19443,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto144-a {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18218,7 +19460,7 @@ hr {
 }
 
 #ShinyKanto145 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18229,11 +19471,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto145-a {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18248,7 +19489,7 @@ hr {
 }
 
 #ShinyKanto146 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18259,11 +19500,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto146-a {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18277,7 +19517,7 @@ hr {
 }
 
 #ShinyKanto147 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18288,11 +19528,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto148 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18303,11 +19542,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto149 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18319,11 +19557,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto150 {
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18334,11 +19571,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyKanto151 {
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19311,7 +20547,7 @@ hr {
 }
 
 #ShinyJohto61{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19322,6 +20558,7 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyJohto62{
@@ -24610,7 +25847,7 @@ hr {
 }
 
 #ShinyUnova48{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     position: relative;
@@ -24621,10 +25858,11 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyUnova49{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     position: relative;
@@ -24635,10 +25873,11 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyUnova50{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     position: relative;
@@ -24649,6 +25888,7 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyUnova51{
@@ -24896,7 +26136,7 @@ hr {
 }
 
 #ShinyUnova66{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     position: relative;
@@ -24908,6 +26148,7 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyUnova67{
@@ -25098,7 +26339,7 @@ hr {
 }
 
 #ShinyUnova80{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     position: relative;
@@ -25109,6 +26350,7 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyUnova81{
@@ -27242,7 +28484,7 @@ hr {
 }
 
 #ShinyKalos44{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
 }
@@ -27252,6 +28494,7 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyKalos45{
@@ -28270,7 +29513,7 @@ hr {
 /*Região de Alola*/
 
 #ShinyAlola01{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     margin-left: 5%;
@@ -28281,10 +29524,11 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyAlola02{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
 }
@@ -28294,10 +29538,11 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyAlola03{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
 }
@@ -28307,6 +29552,7 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyAlola04{
@@ -28323,7 +29569,7 @@ hr {
 }
 
 #ShinyAlola05{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
 }
@@ -28333,10 +29579,11 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyAlola06{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     margin-left: 5%;
@@ -28347,10 +29594,11 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyAlola07{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
 }
@@ -28360,10 +29608,11 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyAlola08{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
 }
@@ -28373,10 +29622,11 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyAlola09{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
 }
@@ -28386,10 +29636,11 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyAlola10{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
 }
@@ -28399,6 +29650,7 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyAlola11{
@@ -28442,7 +29694,7 @@ hr {
 }
 
 #ShinyAlola14{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
 }
@@ -28452,6 +29704,7 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyAlola15{
@@ -28468,7 +29721,7 @@ hr {
 }
 
 #ShinyAlola16{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     margin-left: 5%;
@@ -28479,10 +29732,11 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyAlola17{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
 }
@@ -28492,10 +29746,11 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyAlola18{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
 }
@@ -28505,6 +29760,7 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyAlola19{
@@ -28772,7 +30028,7 @@ hr {
 }
 
 #ShinyAlola39{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
 }
@@ -28782,10 +30038,11 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyAlola40{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
 }
@@ -28795,6 +30052,7 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyAlola41{
@@ -28851,7 +30109,7 @@ hr {
 }
 
 #ShinyAlola45{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
 }
@@ -28861,10 +30119,11 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyAlola46{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     margin-left: 5%;
@@ -28875,10 +30134,11 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyAlola47{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
 }
@@ -28888,10 +30148,11 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyAlola48{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
 }
@@ -28901,10 +30162,11 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyAlola49{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
 }
@@ -28914,6 +30176,7 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 
@@ -28931,7 +30194,7 @@ hr {
 }
 
 #ShinyAlola51{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     margin-left: 5%;
@@ -28942,6 +30205,7 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyAlola52{
@@ -28955,6 +30219,7 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    
 }
 
 #ShinyAlola53{
@@ -29723,7 +30988,7 @@ hr {
 }
 
 #ShinyAlola111{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
     margin-left: 5%;
@@ -29734,6 +30999,7 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyAlola112{
@@ -29884,7 +31150,7 @@ hr {
 }
 
 #ShinyAlola123{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
 }
@@ -29894,10 +31160,11 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 #ShinyAlola124{
-    background-color: #FF99FF;
+    background-color: darkgray;
     width: 17%;
     height: 25%;
 }
@@ -29907,12 +31174,42 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
+    opacity: 0.3;
 }
 
 
 
 
+/*Shundo*/
+#ShundoHoenn130{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
 
+#ShundoHoenn130 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
+
+
+#ShundoUnova10{
+    background-color: darkgray;
+    width: 17%;
+    height: 25%;
+}
+
+#ShundoUnova10 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    opacity: 0.3;
+}
 
 
 
