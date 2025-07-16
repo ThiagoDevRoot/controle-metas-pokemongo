@@ -3042,7 +3042,7 @@ hr {
 
 /*Johto*/
 #Johto01{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3054,12 +3054,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto02{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3070,12 +3070,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto03{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3087,13 +3087,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto04{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3104,13 +3103,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/;
 }
 
 #Johto05{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3121,13 +3119,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
-    opacity: 0.3;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto06{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3139,13 +3136,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto06-a{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3156,12 +3152,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto07{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3172,13 +3168,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto08{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3189,12 +3184,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto09{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;   
@@ -3205,13 +3200,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto10{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3223,12 +3217,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto11{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3239,12 +3233,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto12{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3255,12 +3249,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto13{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3271,12 +3265,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto14{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3287,12 +3281,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto15{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3304,12 +3298,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto16{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3320,12 +3314,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto17{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3336,12 +3330,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto18{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3352,12 +3346,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto19{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3368,13 +3362,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto20{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3386,12 +3379,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto21{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3402,12 +3395,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto22{
-    background-color: #FF99FF;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3421,7 +3414,7 @@ hr {
 }
 
 #Johto23{
-    background-color: #FF99FF;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3435,7 +3428,7 @@ hr {
 }
 
 #Johto24{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3446,12 +3439,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto25{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3463,12 +3456,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto26{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3479,13 +3472,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto27{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3496,13 +3488,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto28{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3513,13 +3504,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
-    opacity: 0.3;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto29{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3530,12 +3520,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/;
 }
 
 #Johto30{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3547,13 +3537,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto31{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3564,12 +3553,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto32{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3580,12 +3569,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto33{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3596,13 +3585,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto34{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3613,12 +3601,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto35{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3630,13 +3618,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto36{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3647,12 +3634,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto37{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3663,12 +3650,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto38{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3679,13 +3666,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto39{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3696,13 +3682,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto40{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3714,13 +3699,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto41{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3731,13 +3715,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto42{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3748,12 +3731,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto43{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3764,13 +3747,13 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 
 #Johto43_1{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3781,13 +3764,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto44{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3799,12 +3781,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto45{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3815,13 +3797,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto46{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3832,13 +3813,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto47{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3849,13 +3829,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto48{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3866,13 +3845,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto48-a{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3884,12 +3862,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto49{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3900,13 +3878,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto50{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3917,12 +3894,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto51{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3933,12 +3910,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto52{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3949,12 +3926,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto53{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3966,12 +3943,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto54{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3982,13 +3959,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto55{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -3999,12 +3975,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto56{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4015,12 +3991,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto57{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4031,12 +4007,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto58{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4048,13 +4024,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto59{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4065,13 +4040,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto60{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4082,12 +4056,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto60-a{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4098,12 +4072,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto61{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4114,13 +4088,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto62{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4132,13 +4105,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto63{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4149,13 +4121,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto64{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4166,13 +4137,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;   
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto64-a{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4183,12 +4153,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto65{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4199,12 +4169,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto66{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4216,12 +4186,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto67{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4232,13 +4202,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto68{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4249,12 +4218,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto69{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4265,12 +4234,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto70{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4281,12 +4250,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto71{
-    background-color: #FF99FF;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4301,7 +4270,7 @@ hr {
 }
 
 #Johto71-a{
-    background-color: #FF99FF;;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4315,7 +4284,7 @@ hr {
 }
 
 #Johto72{
-    background-color: #FF99FF;;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4329,7 +4298,7 @@ hr {
 }
 
 #Johto73{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4340,13 +4309,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto74{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4357,12 +4325,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto75{
-    background-color: #FF99FF;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4377,7 +4345,7 @@ hr {
 }
 
 #Johto76{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4388,13 +4356,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto77{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4405,12 +4372,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto78{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4421,13 +4388,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto79{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4438,12 +4404,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto80{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4455,13 +4421,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto81{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4472,12 +4437,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto82{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4488,13 +4453,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto83{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4505,13 +4469,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto84{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4522,12 +4485,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto85{
-    background-color: #FF99FF;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4542,7 +4505,7 @@ hr {
 }
 
 #Johto86{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4553,13 +4516,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto87{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4571,12 +4533,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto88{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4588,12 +4550,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto89{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4605,12 +4567,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto90{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4622,12 +4584,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto91{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4638,12 +4600,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto92{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4655,12 +4617,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto93{
-    background-color: #FF99FF;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4672,12 +4634,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto94{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4689,13 +4651,13 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 
 #Johto95{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4707,12 +4669,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto96{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4723,12 +4685,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto97{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4740,13 +4702,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto98{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4758,12 +4719,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto99{
-    background-color: darkgray;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -4775,12 +4736,12 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
+    /*background-image: url("back_lucky_new.png");*/
+    /*background-repeat: no-repeat;*/
 }
 
 #Johto100{
-    background-color: #FF99FF;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19590,7 +19551,7 @@ hr {
 /*Shinys's Johto*/
 
 #ShinyJohto01{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19602,11 +19563,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto02{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19617,11 +19577,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto03{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19632,11 +19591,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto04{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19647,11 +19605,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto05{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19662,11 +19619,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto06{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19678,11 +19634,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto06-a{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19696,7 +19651,7 @@ hr {
 }
 
 #ShinyJohto07{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19707,11 +19662,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto08{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19722,11 +19676,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto09{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19737,11 +19690,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto10{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19753,11 +19705,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto11{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19768,7 +19719,6 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto12{
@@ -19786,7 +19736,7 @@ hr {
 }
 
 #ShinyJohto13{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19800,7 +19750,7 @@ hr {
 }
 
 #ShinyJohto14{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19814,7 +19764,7 @@ hr {
 }
 
 #ShinyJohto15{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19829,7 +19779,7 @@ hr {
 }
 
 #ShinyJohto16{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19843,7 +19793,7 @@ hr {
 }
 
 #ShinyJohto17{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19857,7 +19807,7 @@ hr {
 }
 
 #ShinyJohto18{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19868,11 +19818,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto19{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19883,11 +19832,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto20{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19902,7 +19850,7 @@ hr {
 }
 
 #ShinyJohto21{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19916,7 +19864,7 @@ hr {
 }
 
 #ShinyJohto22{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19930,7 +19878,7 @@ hr {
 }
 
 #ShinyJohto23{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19944,7 +19892,7 @@ hr {
 }
 
 #ShinyJohto24{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19955,11 +19903,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto25{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19971,11 +19918,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto26{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -19986,11 +19932,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto27{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20001,11 +19946,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto28{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20016,11 +19960,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto29{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20031,11 +19974,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto30{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20047,11 +19989,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto31{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20065,7 +20006,7 @@ hr {
 }
 
 #ShinyJohto32{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20076,11 +20017,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto33{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20091,11 +20031,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto34{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20106,11 +20045,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto35{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20122,11 +20060,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto36{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20137,11 +20074,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto37{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20152,11 +20088,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto38{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20167,11 +20102,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto39{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20182,11 +20116,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto40{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20198,11 +20131,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto41{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20213,11 +20145,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto42{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20231,7 +20162,7 @@ hr {
 }
 
 #ShinyJohto43{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20242,11 +20173,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto43_1{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20257,11 +20187,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto44{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20273,11 +20202,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto45{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20288,11 +20216,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto46{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20303,11 +20230,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto47{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20318,11 +20244,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto48{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20333,11 +20258,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto48-a{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20352,7 +20276,7 @@ hr {
 }
 
 #ShinyJohto49{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20363,11 +20287,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto50{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20378,11 +20301,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto51{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20393,11 +20315,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto52{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20411,7 +20332,7 @@ hr {
 }
 
 #ShinyJohto53{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20423,11 +20344,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto54{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20438,11 +20358,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto55{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20453,11 +20372,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto56{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20468,11 +20386,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto57{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20483,11 +20400,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto58{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20499,11 +20415,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto59{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20514,11 +20429,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto60{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20529,11 +20443,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto60-a{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20547,7 +20460,7 @@ hr {
 }
 
 #ShinyJohto61{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20558,11 +20471,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto62{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20574,11 +20486,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto63{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20589,11 +20500,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto64{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20604,11 +20514,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto64-a{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20619,11 +20528,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto65{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20634,11 +20542,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto66{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20650,11 +20557,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto67{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20668,7 +20574,7 @@ hr {
 }
 
 #ShinyJohto68{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20682,7 +20588,7 @@ hr {
 }
 
 #ShinyJohto69{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20693,11 +20599,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto70{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20708,11 +20613,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto71{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20727,7 +20631,7 @@ hr {
 }
 
 #ShinyJohto71-a{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20741,7 +20645,7 @@ hr {
 }
 
 #ShinyJohto72{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20755,7 +20659,7 @@ hr {
 }
 
 #ShinyJohto73{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20769,7 +20673,7 @@ hr {
 }
 
 #ShinyJohto74{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20780,11 +20684,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto75{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20799,7 +20702,7 @@ hr {
 }
 
 #ShinyJohto76{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20810,11 +20713,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto77{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20825,11 +20727,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto78{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20840,11 +20741,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto79{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20858,7 +20758,7 @@ hr {
 }
 
 #ShinyJohto80{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20873,7 +20773,7 @@ hr {
 }
 
 #ShinyJohto81{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20887,7 +20787,7 @@ hr {
 }
 
 #ShinyJohto82{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20898,11 +20798,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto83{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20916,7 +20815,7 @@ hr {
 }
 
 #ShinyJohto84{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20927,12 +20826,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
-    
 }
 
 #ShinyJohto85{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20948,7 +20845,7 @@ hr {
 }
 
 #ShinyJohto86{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20959,11 +20856,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto87{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20978,7 +20874,7 @@ hr {
 }
 
 #ShinyJohto88{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -20990,11 +20886,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto89{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -21006,11 +20901,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto90{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -21022,11 +20916,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto91{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -21038,11 +20931,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto92{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -21054,11 +20946,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto93{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -21070,11 +20961,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto94{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -21086,11 +20976,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto95{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -21104,11 +20993,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto96{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -21119,11 +21007,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto97{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -21135,11 +21022,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto98{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -21151,11 +21037,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto99{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -21167,11 +21052,10 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 #ShinyJohto100{
-    background-color: darkgray;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -21183,7 +21067,6 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    opacity: 0.3;
 }
 
 
