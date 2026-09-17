@@ -17622,6 +17622,7 @@ hr {
     background-color: #00FFFF;
     width: 17%;
     height: 25%;
+    position: relative;
 }
 
 #Paldea42 img {
@@ -17820,6 +17821,7 @@ hr {
     background-color: #00FFFF;
     width: 17%;
     height: 25%;
+    position: relative;
 }
 
 #Paldea57 img {
@@ -21397,10 +21399,24 @@ hr {
     display: block;
 }
 
+#Kanto04_4_Evento{
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+}
+
+#Kanto04_4_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
 #Kanto05_2_Evento{
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #Kanto05_2_Evento img {
@@ -21414,10 +21430,22 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #Kanto05_3_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto05_4_Evento{
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+}
+
+#Kanto05_4_Evento img {
     max-width: 100%;
     max-height: 100%;
     margin: auto;
@@ -21444,6 +21472,20 @@ hr {
 }
 
 #Kanto06_3_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto06_4_Evento{
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Kanto06_4_Evento img {
     max-width: 100%;
     max-height: 100%;
     margin: auto;
@@ -21480,7 +21522,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #Kanto07_3_Evento img {
@@ -21507,6 +21548,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #Kanto08_1_Evento img {
@@ -21546,7 +21588,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #Kanto09_1_Evento img {
@@ -21573,6 +21614,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #Kanto09_4_Evento img {
@@ -21612,7 +21654,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #Kanto25_1_Evento img {
@@ -21639,6 +21680,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #Kanto25_3_Evento img {
@@ -21678,7 +21720,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #Kanto25_6_Evento img {
@@ -21705,6 +21746,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #Kanto25_8_Evento img {
@@ -21744,7 +21786,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #Kanto25_11_Evento img {
@@ -21771,6 +21812,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #Kanto25_14_Evento img {
@@ -21810,7 +21852,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #Kanto25_18_Evento img {
@@ -21837,6 +21878,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #Kanto25_20_Evento img {
@@ -21876,7 +21918,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #Kanto25_23_Evento img {
@@ -21903,6 +21944,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #Kanto25_25_Evento img {
@@ -21942,7 +21984,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #Kanto25_28_Evento img {
@@ -21969,6 +22010,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #Kanto25_30_Evento img {
@@ -22008,7 +22050,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #Kanto25_35_Evento img {
@@ -22035,6 +22076,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #Kanto25_42_Evento img {
@@ -22074,7 +22116,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #Kanto25_46_Evento img {
@@ -22101,6 +22142,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #Kanto25_48_Evento img {
@@ -22140,7 +22182,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #Kanto25_51_Evento img {
@@ -22168,6 +22209,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #Kanto25_55_Evento img {
@@ -22207,7 +22249,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #Kanto25_58_Evento img {
@@ -22234,6 +22275,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #Kanto25_60_Evento img {
@@ -22273,7 +22315,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #Kanto25_66_Evento img {
@@ -22300,6 +22341,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #Kanto25_69_Evento img {
@@ -22339,7 +22381,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #Kanto25_72_Evento img {
@@ -22366,6 +22407,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #Kanto25_78_Evento img {
@@ -39708,6 +39750,32 @@ hr {
     height: 25%;
 }
 
+#ShinyKanto04_4_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto04_4_Evento {
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyKanto05_4_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyKanto05_4_Evento {
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+}
+
 #ShinyKanto04_3_Evento img {
     max-width: 100%;
     max-height: 100%;
@@ -39719,6 +39787,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #ShinyKanto07_1_Evento img {
@@ -39745,7 +39814,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #ShinyKanto09_1_Evento img {
@@ -39785,6 +39853,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #ShinyKanto25_20_Evento img {
@@ -39811,7 +39880,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #ShinyKanto25_25_Evento img {
@@ -39851,6 +39919,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #ShinyKanto25_45_Evento img {
@@ -39877,7 +39946,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #ShinyKanto25_49_Evento img {
@@ -39917,6 +39985,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #ShinyKanto25_66_Evento img {
@@ -39943,7 +40012,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #ShinyKanto25_79_Evento img {
@@ -39983,6 +40051,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #ShinyKanto25_94_Evento img {
@@ -40009,7 +40078,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #ShinyKanto54_1_Evento img {
@@ -40049,6 +40117,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #ShinyJohto12_1_Evento img {
@@ -40075,7 +40144,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #ShinyJohto74_1_Evento img {
@@ -40115,6 +40183,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #ShinyKalos109_1_Evento img {
