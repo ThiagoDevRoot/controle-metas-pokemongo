@@ -21026,11 +21026,24 @@ hr {
 
 /*100% Evento*/
 /**********************************************/
-#Kanto09_Evento_100{
+#Kanto04_4_Evento_100{
     background-color: #836FFF;
     width: 17%;
     height: 25%;
     margin-left: 5%;
+}
+
+#Kanto04_4_Evento_100 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto09_Evento_100{
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
 }
 
 #Kanto09_Evento_100 img {
@@ -21083,6 +21096,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #Kanto25_84_Evento_100 img {
@@ -21096,7 +21110,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #Kanto79_02_Evento_100 img {
@@ -21147,12 +21160,11 @@ hr {
     display: block;
 }
 
-
-
 #Kalos109_Evento_100{
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #Kalos109_Evento_100 img {
@@ -21224,11 +21236,24 @@ hr {
 
 /*Shundo*/
 /**********************************************/
-#ShundoJohto100{
+#ShundoKanto04_4{
     background-color: #C71585;
     width: 17%;
     height: 25%;
     margin-left: 5%;
+}
+
+#ShundoKanto04_4 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShundoJohto100{
+    background-color: #C71585;
+    width: 17%;
+    height: 25%;
 }
 
 #ShundoJohto100 img {

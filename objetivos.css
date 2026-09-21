@@ -1,0 +1,87 @@
+div {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+}
+
+p {
+    text-align: center;
+    border: solid;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Comic Sans MS;
+    color: white;
+    background-color: #836FFF;
+}
+
+body{
+    background-color: #7FFFD4;
+
+}
+
+.containerLogo {
+    display: flex; /* Transforma o div em um flex container */
+    align-items: center; /* Alinha os itens verticalmente no centro */
+    justify-content: space-between;
+    width: 10%;
+    height: 10%;
+    background-color: #7FFFD4;
+  }
+
+.containerNomeRegiao {
+    display: flex; /* Transforma o container em um flex container */
+    justify-content: center; /* Centraliza os itens horizontalmente */
+    align-items: center; /* Centraliza os itens verticalmente */ 
+  }
+
+#nomeRegiao{
+    text-align: center;
+    border: solid;
+    font-weight: bold;
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: Comic Sans MS;
+    color: white;
+    background-color: #836FFF;
+    width: 10%; /* Define a largura do elemento */
+    margin: 20 auto; /* Centraliza horizontalmente */
+    padding: 10px; /* Adiciona espaço interno */
+    margin-left: 5%;
+}
+
+/* Estilo para a linha HR */
+hr {
+    /* Certifique-se que o HR não esteja dentro de um elemento com display: none; */
+    display: block; /* Garante que o elemento seja exibido */
+    border: none;
+    border-top: 10px solid #836FFF;
+    margin: 20px auto; /* Centraliza a linha horizontalmente */
+    margin-left: 0%;
+    margin-bottom: 1%;
+    width: 100%; /* Define a largura da linha */
+    flex-grow: 1; /* Faz a linha ocupar todo o espaço disponível */
+    height: 2px; /* Define a altura da linha */
+}
+
+/* Estilo base dos ícones */
+.badge {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+}
+
+/* Posições */
+.best-buddy {
+    top: 5px;
+    right: 5px;
+}
+
+.IV_100 {
+    bottom: 5px;
+    left: -2px;
+    width: 50px;
+    height: 50px;
+}
+
+/**********************************************/
+/*1 -- 100% Kanto*/
