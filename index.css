@@ -15493,7 +15493,7 @@ hr {
 }
 
 #Galar04 {
-    background-color: #FF99FF;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -15504,8 +15504,6 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
 }
 
 #Galar05 {
@@ -32042,7 +32040,7 @@ hr {
 }
 
 #ShinyUnova84{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
@@ -32071,7 +32069,7 @@ hr {
 }
 
 #ShinyUnova86{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
