@@ -6096,8 +6096,6 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    /*background-image: url("back_lucky_new.png");*/
-    /*background-repeat: no-repeat;*/
 }
 
 #Hoenn83{
@@ -9480,7 +9478,7 @@ hr {
 }
 
 #Unova25{
-    background-color: #FF99FF;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -9491,8 +9489,6 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
 }
 
 
@@ -19163,12 +19159,28 @@ hr {
     background-repeat: no-repeat;
 }
 
-#Kanto143_Sortudo {
+#Kanto142_Sortudo {
     background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
     margin-left: 5%;
+}
+
+#Kanto142_Sortudo img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Kanto143_Sortudo {
+    background-color: #FFD700;
+    width: 17%;
+    height: 25%;
+    position: relative;
 }
 
 #Kanto143_Sortudo img {
@@ -19999,11 +20011,28 @@ hr {
     background-repeat: no-repeat;
 }
 
+#Unova84_Sortudo {
+    background-color: #FFD700;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Unova84_Sortudo img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
 #Unova97_Sortudo {
     background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
+    margin-left: 5%;
 }
 
 #Unova97_Sortudo img {
@@ -20020,7 +20049,6 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
-    margin-left: 5%;
 }
 
 #Unova121_Sortudo img {
@@ -20085,6 +20113,7 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
+    margin-left: 5%;
 }
 
 #Unova136_Sortudo img {
@@ -20101,7 +20130,6 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
-    margin-left: 5%;
 }
 
 #Unova137_Sortudo img {
@@ -20285,6 +20313,22 @@ hr {
 }
 
 #Kalos104_Sortudo img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#KalosTeste_Sortudo {
+    background-color: #FFD700;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#KalosTeste_Sortudo img {
     max-width: 100%;
     max-height: 100%;
     margin: auto;
@@ -40484,6 +40528,19 @@ hr {
     display: block;
 }
 
+#ShinyKanto25_98_Evento {
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyKanto25_98_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
 #ShinyKanto39_1_Evento {
     background-color: #836FFF;
     width: 17%;
@@ -40501,6 +40558,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #ShinyKanto54_1_Evento img {
@@ -40514,7 +40572,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #ShinyKanto79_1_Evento img {
@@ -40567,6 +40624,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #ShinyJohto74_1_Evento img {
@@ -40580,7 +40638,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #ShinyUnova30_1_Evento img {
