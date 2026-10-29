@@ -20321,21 +20321,6 @@ hr {
     background-repeat: no-repeat;
 }
 
-#KalosTeste_Sortudo {
-    background-color: #FFD700;
-    width: 17%;
-    height: 25%;
-    position: relative;
-}
-
-#KalosTeste_Sortudo img {
-    max-width: 100%;
-    max-height: 100%;
-    margin: auto;
-    display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
-}
 
 /*2-- 100% Sortudos Alola*/
 #Alola07_Sortudo {
@@ -22615,6 +22600,19 @@ hr {
     display: block;
 }
 
+#Kanto25_103_Evento{
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+}
+
+#Kanto25_103_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
 #Kanto26_1_Evento{
     background-color: #836FFF;
     width: 17%;
@@ -22645,6 +22643,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #Kanto26_3_Evento img {
@@ -22658,7 +22657,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #Kanto26_4_Evento img {
@@ -22711,6 +22709,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #Kanto26_8_Evento img {
@@ -22724,7 +22723,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #Kanto26_11_Evento img {
@@ -22777,6 +22775,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #Kanto31_1_Evento img {
@@ -22790,7 +22789,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #Kanto33_1_Evento img {
@@ -22843,6 +22841,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #Kanto39_1_Evento img {
@@ -22856,7 +22855,32 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
+}
+
+#Kanto41_1_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto41_1_Evento{
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+}
+
+#Kanto42_1_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto42_1_Evento{
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
 }
 
 #Kanto40_1_Evento img {
@@ -22883,9 +22907,49 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #Kanto51_1_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto54_1_Evento{
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+}
+
+#Kanto54_1_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto54_2_Evento{
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+}
+
+#Kanto54_2_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto55_1_Evento{
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+}
+
+#Kanto55_1_Evento img {
     max-width: 100%;
     max-height: 100%;
     margin: auto;
@@ -40541,6 +40605,19 @@ hr {
     display: block;
 }
 
+#ShinyKanto25_96_Evento {
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyKanto25_96_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
 #ShinyKanto25_98_Evento {
     background-color: #836FFF;
     width: 17%;
@@ -40558,6 +40635,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #ShinyKanto39_1_Evento img {
@@ -40571,7 +40649,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #ShinyKanto54_1_Evento img {
@@ -40624,6 +40701,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #ShinyJohto13_1_Evento img {
@@ -40637,7 +40715,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #ShinyJohto74_1_Evento img {
