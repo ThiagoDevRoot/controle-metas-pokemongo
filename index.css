@@ -19388,12 +19388,28 @@ hr {
     background-repeat: no-repeat;
 }
 
-#Johto59_Sortudo {
+#Johto50_F_Sortudo {
     background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
     margin-left: 5%;
+}
+
+#Johto50_F_Sortudo img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Johto59_Sortudo {
+    background-color: #FFD700;
+    width: 17%;
+    height: 25%;
+    position: relative;
 }
 
 #Johto59_Sortudo img {
@@ -20313,6 +20329,22 @@ hr {
 }
 
 #Kalos104_Sortudo img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Kalos105_Sortudo {
+    background-color: #FFD700;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kalos105_Sortudo img {
     max-width: 100%;
     max-height: 100%;
     margin: auto;
@@ -22950,6 +22982,59 @@ hr {
 }
 
 #Kanto55_1_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto77_1_Evento{
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+}
+
+#Kanto77_1_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto78_1_Evento{
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Kanto78_1_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto79_1_Evento{
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+}
+
+#Kanto79_1_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto79_2_Evento{
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+}
+
+#Kanto79_2_Evento img {
     max-width: 100%;
     max-height: 100%;
     margin: auto;
@@ -40987,6 +41072,20 @@ hr {
 }
 
 #Johto58_0 img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kalos104_0{
+    background-color: white;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Kalos104_0 img {
     max-width: 100%;
     max-height: 100%;
     margin: auto;
