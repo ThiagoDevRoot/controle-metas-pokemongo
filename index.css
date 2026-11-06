@@ -23041,6 +23041,99 @@ hr {
     display: block;
 }
 
+#Kanto80_1_Evento{
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+}
+
+#Kanto80_1_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto88_1_Evento{
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+}
+
+#Kanto88_1_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto89_1_Evento{
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+    margin-left: 5%;
+}
+
+#Kanto89_1_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto94_1_Evento{
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+}
+
+#Kanto94_1_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto94_2_Evento{
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+}
+
+#Kanto94_2_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto94_3_Evento{
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+}
+
+#Kanto94_3_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#Kanto94_4_Evento{
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+}
+
+#Kanto94_4_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+
 
 
 
@@ -40769,10 +40862,24 @@ hr {
     display: block;
 }
 
+#ShinyKanto94_3_Evento {
+    background-color: #836FFF;
+    width: 17%;
+    height: 25%;
+}
+
+#ShinyKanto94_3_Evento img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
 #ShinyJohto12_1_Evento {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #ShinyJohto12_1_Evento img {
@@ -40786,7 +40893,6 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
-    margin-left: 5%;
 }
 
 #ShinyJohto13_1_Evento img {
@@ -40839,6 +40945,7 @@ hr {
     background-color: #836FFF;
     width: 17%;
     height: 25%;
+    margin-left: 5%;
 }
 
 #ShinyKalos109_1_Evento img {
