@@ -26612,11 +26612,84 @@ hr {
     display: block;
 }
 
+#ShinyJohto50_H{
+    background-color: #FFD700;
+    width: 17%;
+    height: 25%;
+    position: relative;
+    margin-left: 5%;
+}
+
+#ShinyJohto50_H img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto50_R{
+    background-color: #FFD700;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto50_R img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto50_S{
+    background-color: #FFD700;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto50_S img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto50_Z{
+    background-color: #FFD700;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto50_Z img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+#ShinyJohto50_int{
+    background-color: #FFD700;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#ShinyJohto50_int img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+
 #ShinyJohto51{
     background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
+    margin-left: 5%;
 }
 
 #ShinyJohto51 img {
@@ -26645,7 +26718,7 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
-    margin-left: 5%;
+    
 }
 
 #ShinyJohto53 img {
@@ -26688,6 +26761,7 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
+    margin-left: 5%;
 }
 
 #ShinyJohto56 img {
@@ -26716,7 +26790,6 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
-    margin-left: 5%;
 }
 
 #ShinyJohto58 img {
@@ -26759,6 +26832,7 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
+    margin-left: 5%;
 }
 
 #ShinyJohto60-a img {
@@ -26787,7 +26861,6 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
-    margin-left: 5%;
 }
 
 #ShinyJohto62 img {
@@ -26830,6 +26903,7 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
+    margin-left: 5%;
 }
 
 #ShinyJohto64-a img {
@@ -26858,7 +26932,6 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
-    margin-left: 5%;
 }
 
 #ShinyJohto66 img {
@@ -26901,6 +26974,7 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
+    margin-left: 5%;
 }
 
 #ShinyJohto69 img {
@@ -26929,7 +27003,6 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
-    margin-left: 5%;
 }
 
 #ShinyJohto71 img {
@@ -26972,6 +27045,7 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
+    margin-left: 5%;
 }
 
 #ShinyJohto73 img {
@@ -27000,7 +27074,6 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
-    margin-left: 5%;
 }
 
 #ShinyJohto75 img {
@@ -27043,6 +27116,7 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
+    margin-left: 5%;
 }
 
 #ShinyJohto78 img {
@@ -27071,7 +27145,6 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
-    margin-left: 5%;
 }
 
 #ShinyJohto80 img {
@@ -27114,6 +27187,7 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
+    margin-left: 5%;
 }
 
 #ShinyJohto83 img {
@@ -27141,9 +27215,7 @@ hr {
     background-color: #FFD700;
     width: 17%;
     height: 25%;
-    position: relative;
-    margin-left: 5%;
-    
+    position: relative; 
 }
 
 #ShinyJohto85 img {
@@ -27187,7 +27259,7 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
-    
+    margin-left: 5%;
 }
 
 #ShinyJohto88 img {
@@ -27217,7 +27289,6 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
-    margin-left: 5%;
 }
 
 #ShinyJohto90 img {
@@ -27262,6 +27333,7 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
+    margin-left: 5%;
     
 }
 
@@ -27291,10 +27363,7 @@ hr {
     background-color: #FFD700;
     width: 17%;
     height: 25%;
-    position: relative;
-    margin-left: 5%;
-
-    
+    position: relative;   
 }
 
 #ShinyJohto95 img {
@@ -27338,7 +27407,7 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
-    
+    margin-left: 5%;
 }
 
 #ShinyJohto98 img {
@@ -27368,7 +27437,6 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
-    margin-left: 5%;
 }
 
 #ShinyJohto100 img {
