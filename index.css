@@ -11034,7 +11034,7 @@ hr {
 }
 
 #Unova123{
-    background-color: #FF99FF;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -11045,8 +11045,6 @@ hr {
     max-height: 100%;
     margin: auto;
     display: block;
-    background-image: url("back_lucky_new.png");
-    background-repeat: no-repeat;
 }
 
 #Unova124{
@@ -23207,7 +23205,7 @@ hr {
     height: 25%;
 }
 
-#Kanto113_1_Evento img {
+#Kanto113_1_Eventog img {
     max-width: 100%;
     max-height: 100%;
     margin: auto;
@@ -33812,7 +33810,7 @@ hr {
 }
 
 #ShinyUnova175{
-    background-color: #FF99FF;
+    background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
