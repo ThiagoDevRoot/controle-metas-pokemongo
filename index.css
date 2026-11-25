@@ -16214,7 +16214,7 @@ hr {
 }
 
 #Galar54 {
-    background-color: #FF99FF;
+    background-color: #00FFFF;
     width: 17%;
     height: 25%;
     position: relative;
@@ -18995,12 +18995,28 @@ hr {
     background-repeat: no-repeat;
 }
 
-#Kanto49_Sortudo {
+#Kanto39_Sortudo {
     background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
     margin-left: 5%;
+}
+
+#Kanto39_Sortudo img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
+#Kanto49_Sortudo {
+    background-color: #FFD700;
+    width: 17%;
+    height: 25%;
+    position: relative;
 }
 
 #Kanto49_Sortudo img {
@@ -19065,6 +19081,7 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
+    margin-left: 5%;
 }
 
 #Kanto74-a_Sortudo img {
@@ -19081,7 +19098,6 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
-    margin-left: 5%;
 }
 
 #Kanto81_Sortudo img {
@@ -19147,6 +19163,7 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
+    margin-left: 5%;
 }
 
 #Kanto139_Sortudo img {
@@ -19163,7 +19180,6 @@ hr {
     width: 17%;
     height: 25%;
     position: relative;
-    margin-left: 5%;
 }
 
 #Kanto142_Sortudo img {
@@ -19452,11 +19468,28 @@ hr {
     background-repeat: no-repeat;
 }
 
+#Johto90_Sortudo {
+    background-color: #FFD700;
+    width: 17%;
+    height: 25%;
+    position: relative;
+}
+
+#Johto90_Sortudo img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    background-image: url("back_lucky_new.png");
+    background-repeat: no-repeat;
+}
+
 #Johto97_Sortudo {
     background-color: #FFD700;
     width: 17%;
     height: 25%;
     position: relative;
+    margin-left: 5%;
 }
 
 #Johto97_Sortudo img {
